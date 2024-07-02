@@ -1,0 +1,300 @@
+[
+    {
+      "id": 1,
+      "question": "Quel est le nom complet du personnage principal de la série Harry Potter ?",
+      "choices": ["Harry James Potter", "Harry Albus Potter", "Harry Sirius Potter", "Harry Neville Potter"],
+      "correct_answer": "Harry James Potter"
+    },
+    {
+      "id": 2,
+      "question": "Dans quel livre de la série Harry Potter Harry découvre-t-il qu'il est un sorcier ?",
+      "choices": ["Harry Potter à l'école des sorciers", "Harry Potter et la Chambre des secrets", "Harry Potter et le Prisonnier d'Azkaban", "Harry Potter et le Prince de sang-mêlé"],
+      "correct_answer": "Harry Potter à l'école des sorciers"
+    },
+    {
+      "id": 3,
+      "question": "Quelle est la couleur du train qui emmène les élèves à Poudlard ?",
+      "choices": ["Rouge", "Bleu", "Vert", "Noir"],
+      "correct_answer": "Rouge"
+    },
+    {
+      "id": 4,
+      "question": "Quelle est la spécialité de la boutique de Fred et George Weasley à Pré-au-Lard ?",
+      "choices": ["Farces et attrapes", "Confiseries magiques", "Bougies magiques", "Instruments de musique"],
+      "correct_answer": "Farces et attrapes"
+    },
+    {
+      "id": 5,
+      "question": "Quel animal est l'assistant d'Hagrid, le garde-chasse de Poudlard ?",
+      "choices": ["Un hippogriffe nommé Buck", "Un dragon vert", "Un chien à trois têtes", "Un phénix"],
+      "correct_answer": "Un hippogriffe nommé Buck"
+    },
+    {
+      "id": 6,
+      "question": "Quelle est la maison à Poudlard dont les couleurs sont bleu et argent ?",
+      "choices": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
+      "correct_answer": "Serpentard"
+    },
+    {
+      "id": 7,
+      "question": "Qui est le professeur de potions à Poudlard durant la majeure partie de la série ?",
+      "choices": ["Severus Rogue", "Remus Lupin", "Horace Slughorn", "Dolores Ombrage"],
+      "correct_answer": "Severus Rogue"
+    },
+    {
+      "id": 8,
+      "question": "Quelle créature magique garde les banques des sorciers, y compris Gringotts ?",
+      "choices": ["Les gobelins", "Les elfes de maison", "Les centaures", "Les hippogriffes"],
+      "correct_answer": "Les gobelins"
+    },
+    {
+      "id": 9,
+      "question": "Quel est le patronus de Harry Potter ?",
+      "choices": ["Cerf", "Hibou", "Lion", "Phoenix"],
+      "correct_answer": "Cerf"
+    },
+    {
+      "id": 10,
+      "question": "Quel est le sortilège qui permet de faire léviter des objets ?",
+      "choices": ["Wingardium Leviosa", "Expelliarmus", "Accio", "Expecto Patronum"],
+      "correct_answer": "Wingardium Leviosa"
+    },
+    {
+      "id": 11,
+      "question": "Quelle est la boutique de baguettes magiques située sur le Chemin de Traverse ?",
+      "choices": ["Ollivander", "Barjow et Beurk", "Fleury et Bott", "Gringotts"],
+      "correct_answer": "Ollivander"
+    },
+    {
+      "id": 12,
+      "question": "Quel est le nom de l'elfe de maison de la famille Malefoy ?",
+      "choices": ["Dobby", "Kreattur", "Winky", "Hokey"],
+      "correct_answer": "Dobby"
+    },
+    {
+      "id": 13,
+      "question": "Quelle est la boisson favorite des elfes de maison dans la série Harry Potter ?",
+      "choices": ["La bièraubeurre", "Le jus de citrouille", "Le polynectar", "Le philtre de mort vivante"],
+      "correct_answer": "La bièraubeurre"
+    },
+    {
+      "id": 14,
+      "question": "Quel est le nom du dragon gardé par Hagrid dans « Harry Potter et la Chambre des secrets » ?",
+      "choices": ["Norbert", "Smaug", "Fang", "Gringott"],
+      "correct_answer": "Norbert"
+    },
+    {
+      "id": 15,
+      "question": "Qui est le fantôme de la maison Serdaigle à Poudlard ?",
+      "choices": ["La Dame Grise", "Le Baron Sanglant", "Le Moine Gras", "Le Moine Gris"],
+      "correct_answer": "Le Moine Gris"
+    }, {
+        "id": 16,
+        "question": "Quel est le nom du frère aîné de Ron Weasley, qui est également un préfet à Poudlard ?",
+        "choices": ["Bill", "Charlie", "Percy", "George"],
+        "correct_answer": "Percy"
+      },
+      {
+        "id": 17,
+        "question": "Quel est le nom du balai volant de Harry Potter qui est célèbre pour sa vitesse ?",
+        "choices": ["Nimbus 2000", "Éclair de feu", "Flèche d'argent", "Comète 260"],
+        "correct_answer": "Nimbus 2000"
+      },
+      {
+        "id": 18,
+        "question": "Quelle est la créature magique gardienne des forêts et amie de Hagrid dans la série Harry Potter ?",
+        "choices": ["Norbert", "Buck", "Aragog", "Dobby"],
+        "correct_answer": "Buck"
+      },
+      {
+        "id": 19,
+        "question": "Quelle est la profession des parents de Hermione Granger dans la série Harry Potter ?",
+        "choices": ["Dentistes", "Médecins", "Avocats", "Professeurs"],
+        "correct_answer": "Dentistes"
+      },
+      {
+        "id": 20,
+        "question": "Quel est le nom du fondateur de la maison Serpentard à Poudlard ?",
+        "choices": ["Salazar Serpentard", "Godric Gryffondor", "Rowena Serdaigle", "Helga Poufsouffle"],
+        "correct_answer": "Salazar Serpentard"
+      },
+      {
+        "id": 21,
+        "question": "Dans quel livre Harry Potter découvre-t-il le secret de la Chambre des Secrets ?",
+        "choices": ["Harry Potter et la Chambre des Secrets", "Harry Potter et le Prisonnier d'Azkaban", "Harry Potter et le Prince de sang-mêlé", "Harry Potter et les Reliques de la Mort"],
+        "correct_answer": "Harry Potter et la Chambre des Secrets"
+      },
+      {
+        "id": 22,
+        "question": "Quelle est la matière enseignée par Gilderoy Lockhart à Poudlard ?",
+        "choices": ["Défense contre les forces du Mal", "Sortilèges", "Histoire de la magie", "Botanique"],
+        "correct_answer": "Défense contre les forces du Mal"
+      },
+      {
+        "id": 23,
+        "question": "Quelle est la spécialité du magasin Honeydukes à Pré-au-Lard dans la série Harry Potter ?",
+        "choices": ["Confiseries magiques", "Farces et attrapes", "Livres de sorts", "Accessoires de Quidditch"],
+        "correct_answer": "Confiseries magiques"
+      },
+      {
+        "id": 24,
+        "question": "Quel sortilège est utilisé pour effacer la mémoire de quelqu'un ?",
+        "choices": ["Oubliettes", "Expelliarmus", "Imperium", "Obliviate"],
+        "correct_answer": "Obliviate"
+      },
+      {
+        "id": 25,
+        "question": "Quelle est la spécialité de la boutique de Fred et George Weasley à Pré-au-Lard ?",
+        "choices": ["Farces et attrapes", "Confiseries magiques", "Bougies magiques", "Instruments de musique"],
+        "correct_answer": "Farces et attrapes"
+      },
+      {
+        "id": 26,
+        "question": "Quel animal est l'assistant d'Hagrid, le garde-chasse de Poudlard ?",
+        "choices": ["Un hippogriffe nommé Buck", "Un dragon vert", "Un chien à trois têtes", "Un phénix"],
+        "correct_answer": "Un hippogriffe nommé Buck"
+      },
+      {
+        "id": 27,
+        "question": "Quelle est la maison à Poudlard dont les couleurs sont bleu et argent ?",
+        "choices": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
+        "correct_answer": "Serpentard"
+      },
+      {
+        "id": 28,
+        "question": "Qui est le professeur de potions à Poudlard durant la majeure partie de la série ?",
+        "choices": ["Severus Rogue", "Remus Lupin", "Horace Slughorn", "Dolores Ombrage"],
+        "correct_answer": "Severus Rogue"
+      },
+      {
+        "id": 29,
+        "question": "Quelle créature magique garde les banques des sorciers, y compris Gringotts ?",
+        "choices": ["Les gobelins", "Les elfes de maison", "Les centaures", "Les hippogriffes"],
+        "correct_answer": "Les gobelins"
+      },
+      {
+        "id": 30,
+        "question": "Quel est le patronus de Harry Potter ?",
+        "choices": ["Cerf", "Hibou", "Lion", "Phoenix"],
+        "correct_answer": "Cerf"
+      }, {
+        "id": 31,
+        "question": "Quel est le nom de la boutique de baguettes magiques située sur le Chemin de Traverse ?",
+        "choices": ["Ollivander", "Barjow et Beurk", "Fleury et Bott", "Gringotts"],
+        "correct_answer": "Ollivander"
+      },
+      {
+        "id": 32,
+        "question": "Quel est le nom de l'elfe de maison de la famille Malefoy ?",
+        "choices": ["Dobby", "Kreattur", "Winky", "Hokey"],
+        "correct_answer": "Dobby"
+      },
+      {
+        "id": 33,
+        "question": "Quelle est la boisson favorite des elfes de maison dans la série Harry Potter ?",
+        "choices": ["La bièraubeurre", "Le jus de citrouille", "Le polynectar", "Le philtre de mort vivante"],
+        "correct_answer": "La bièraubeurre"
+      },
+      {
+        "id": 34,
+        "question": "Quel est le nom du dragon gardé par Hagrid dans « Harry Potter et la Chambre des secrets » ?",
+        "choices": ["Norbert", "Smaug", "Fang", "Gringott"],
+        "correct_answer": "Norbert"
+      },
+      {
+        "id": 35,
+        "question": "Qui est le fantôme de la maison Serdaigle à Poudlard ?",
+        "choices": ["La Dame Grise", "Le Baron Sanglant", "Le Moine Gras", "Le Moine Gris"],
+        "correct_answer": "Le Moine Gris"
+      },
+      {
+        "id": 36,
+        "question": "Quel est le nom complet du personnage principal de la série Harry Potter ?",
+        "choices": ["Harry James Potter", "Harry Albus Potter", "Harry Sirius Potter", "Harry Neville Potter"],
+        "correct_answer": "Harry James Potter"
+      },
+      {
+        "id": 37,
+        "question": "Dans quel livre de la série Harry Potter Harry découvre-t-il qu'il est un sorcier ?",
+        "choices": ["Harry Potter à l'école des sorciers", "Harry Potter et la Chambre des secrets", "Harry Potter et le Prisonnier d'Azkaban", "Harry Potter et le Prince de sang-mêlé"],
+        "correct_answer": "Harry Potter à l'école des sorciers"
+      },
+      {
+        "id": 38,
+        "question": "Quelle est la couleur du train qui emmène les élèves à Poudlard ?",
+        "choices": ["Rouge", "Bleu", "Vert", "Noir"],
+        "correct_answer": "Rouge"
+      },
+      {
+        "id": 39,
+        "question": "Quelle est la spécialité de la boutique de Fred et George Weasley à Pré-au-Lard ?",
+        "choices": ["Farces et attrapes", "Confiseries magiques", "Bougies magiques", "Instruments de musique"],
+        "correct_answer": "Farces et attrapes"
+      },
+      {
+        "id": 40,
+        "question": "Quel animal est l'assistant d'Hagrid, le garde-chasse de Poudlard ?",
+        "choices": ["Un hippogriffe nommé Buck", "Un dragon vert", "Un chien à trois têtes", "Un phénix"],
+        "correct_answer": "Un hippogriffe nommé Buck"
+      },
+      {
+        "id": 41,
+        "question": "Quelle est la maison à Poudlard dont les couleurs sont bleu et argent ?",
+        "choices": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
+        "correct_answer": "Serpentard"
+      },
+      {
+        "id": 42,
+        "question": "Qui est le professeur de potions à Poudlard durant la majeure partie de la série ?",
+        "choices": ["Severus Rogue", "Remus Lupin", "Horace Slughorn", "Dolores Ombrage"],
+        "correct_answer": "Severus Rogue"
+      },
+      {
+        "id": 43,
+        "question": "Quelle créature magique garde les banques des sorciers, y compris Gringotts ?",
+        "choices": ["Les gobelins", "Les elfes de maison", "Les centaures", "Les hippogriffes"],
+        "correct_answer": "Les gobelins"
+      },
+      {
+        "id": 44,
+        "question": "Quel est le patronus de Harry Potter ?",
+        "choices": ["Cerf", "Hibou", "Lion", "Phoenix"],
+        "correct_answer": "Cerf"
+      },
+      {
+        "id": 45,
+        "question": "Quel est le nom de la boutique de baguettes magiques située sur le Chemin de Traverse ?",
+        "choices": ["Ollivander", "Barjow et Beurk", "Fleury et Bott", "Gringotts"],
+        "correct_answer": "Ollivander"
+      },
+      {
+        "id": 46,
+        "question": "Quel est le nom de l'elfe de maison de la famille Malefoy ?",
+        "choices": ["Dobby", "Kreattur", "Winky", "Hokey"],
+        "correct_answer": "Dobby"
+      },
+      {
+        "id": 47,
+        "question": "Quelle est la boisson favorite des elfes de maison dans la série Harry Potter ?",
+        "choices": ["La bièraubeurre", "Le jus de citrouille", "Le polynectar", "Le philtre de mort vivante"],
+        "correct_answer": "La bièraubeurre"
+      },
+      {
+        "id": 48,
+        "question": "Quel est le nom du dragon gardé par Hagrid dans « Harry Potter et la Chambre des secrets » ?",
+        "choices": ["Norbert", "Smaug", "Fang", "Gringott"],
+        "correct_answer": "Norbert"
+      },
+      {
+        "id": 49,
+        "question": "Qui est le fantôme de la maison Serdaigle à Poudlard ?",
+        "choices": ["La Dame Grise", "Le Baron Sanglant", "Le Moine Gras", "Le Moine Gris"],
+        "correct_answer": "Le Moine Gris"
+      },
+      {
+        "id": 50,
+        "question": "Quel est le nom complet du personnage principal de la série Harry Potter ?",
+        "choices": ["Harry James Potter", "Harry Albus Potter", "Harry Sirius Potter", "Harry Neville Potter"],
+        "correct_answer": "Harry James Potter"
+      }
+  ]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "Quel est le nom du compagnon de Mickey Mouse, souvent vêtu de vert ?",
+    "choices": ["Dingo", "Donald", "Pluto", "Goofy"],
+    "correct_answer": "Dingo"
+  },
+  {
+    "id": 2,
+    "question": "Dans « La Belle et la Bête », quel est le prénom de la Belle ?",
+    "choices": ["Belle", "Aurora", "Elsa", "Belle n'a pas de prénom"],
+    "correct_answer": "Belle"
+  },
+  {
+    "id": 3,
+    "question": "Quel est le nom du lion dans le film Disney « Le Roi Lion 2 : L'Honneur de la Tribu » ?",
+    "choices": ["Simba", "Kovu", "Mufasa", "Scar"],
+    "correct_answer": "Kovu"
+  },
+  {
+    "id": 4,
+    "question": "Quel est le nom du prince dans « La Belle au bois dormant » ?",
+    "choices": ["Philippe", "Éric", "Adam", "Stefan"],
+    "correct_answer": "Philippe"
+  },
+  {
+    "id": 5,
+    "question": "Dans « La Reine des neiges », quel est le nom de la montagne où Elsa se retire pour vivre seule ?",
+    "choices": ["Arendelle", "Montagne du Nord", "Montagne du Rocher", "Montagne de l'Isolation"],
+    "correct_answer": "Montagne du Nord"
+  },
+  {
+    "id": 6,
+    "question": "Quel est le nom de la chanson emblématique du film « Le Roi Lion » ?",
+    "choices": ["Hakuna Matata", "L'histoire de la vie", "Soyez prêtes", "L'amour brille sous les étoiles"],
+    "correct_answer": "L'histoire de la vie"
+  },
+  {
+    "id": 7,
+    "question": "Qui est le créateur du personnage de Mickey Mouse ?",
+    "choices": ["Walt Disney", "Roy Disney", "Ub Iwerks", "Marc Davis"],
+    "correct_answer": "Walt Disney"
+  },
+  {
+    "id": 8,
+    "question": "Quel est le nom du poisson amnésique dans « Le Monde de Nemo » ?",
+    "choices": ["Nemo", "Marlin", "Dory", "Bubbles"],
+    "correct_answer": "Dory"
+  },
+  {
+    "id": 9,
+    "question": "Dans « La Petite Sirène », quel est le nom du prince humain que Ariel aime ?",
+    "choices": ["Eric", "Philippe", "Adam", "Stefan"],
+    "correct_answer": "Eric"
+  },
+  {
+    "id": 10,
+    "question": "Quel est le nom du méchant prince dans « La Princesse et la Grenouille » ?",
+    "choices": ["Facilier", "Naveen", "Louis", "Tiana"],
+    "correct_answer": "Facilier"
+  },
+  {
+    "id": 11,
+    "question": "Dans « Aladdin », quel est le nom de la ville où se déroule l'histoire ?",
+    "choices": ["Agrabah", "Arendelle", "Atlantica", "Arendelle"],
+    "correct_answer": "Agrabah"
+  },
+  {
+    "id": 12,
+    "question": "Quel est le nom du compagnon de Aladdin, qui est un singe ?",
+    "choices": ["Abu", "Iago", "Rajah", "Tiger"],
+    "correct_answer": "Abu"
+  },
+  {
+    "id": 13,
+    "question": "Dans « Mulan », quel est le nom du dragon qui accompagne Mulan dans sa quête ?",
+    "choices": ["Mushu", "Cri-Kee", "Shan Yu", "Yao"],
+    "correct_answer": "Mushu"
+  },
+  {
+    "id": 14,
+    "question": "Quel est le nom du prince dans « La Belle et la Bête » ?",
+    "choices": ["Adam", "Éric", "Philippe", "Jean-Claude"],
+    "correct_answer": "Adam"
+  },
+  {
+    "id": 15,
+    "question": "Dans « Pocahontas », quel est le nom du meilleur ami de Pocahontas ?",
+    "choices": ["Meeko", "Flit", "Powhatan", "John Smith"],
+    "correct_answer": "Meeko"
+  },
+  {
+    "id": 16,
+    "question": "Quel est le nom du château où habite Belle dans « La Belle et la Bête » ?",
+    "choices": ["Château de la Rose", "Château des Neiges", "Château de la Bête", "Château Enchanté"],
+    "correct_answer": "Château de la Bête"
+  },
+  {
+    "id": 17,
+    "question": "Dans « Hercules », quel est le nom du satyre qui aide Hercules dans sa quête ?",
+    "choices": ["Philoctète", "Pegasus", "Zeus", "Hades"],
+    "correct_answer": "Philoctète"
+  },
+  {
+    "id": 18,
+    "question": "Quel est le nom du chien de chasse dans « La Belle et le Clochard » ?",
+    "choices": ["Clochard", "Napoleon", "Boris", "Jock"],
+    "correct_answer": "Jock"
+  },
+  {
+    "id": 19,
+    "question": "Dans « La Reine des neiges », quel est le nom de la montagne où Elsa se retire pour vivre seule ?",
+    "choices": ["Arendelle", "Montagne du Nord", "Montagne du Rocher", "Montagne de l'Isolation"],
+    "correct_answer": "Montagne du Nord"
+  },
+  {
+    "id": 20,
+    "question": "Quel est le nom du père de Nemo dans « Le Monde de Nemo » ?",
+    "choices": ["Marlin", "Dory", "Bruce", "Gill"],
+    "correct_answer": "Marlin"
+  },
+  {
+    "id": 21,
+    "question": "Dans « Mulan », quelle est la profession de Fa Zhou, le père de Mulan ?",
+    "choices": ["Forgeron", "Marchand", "Soldat", "Paysan"],
+    "correct_answer": "Forgeron"
+  },
+  {
+    "id": 22,
+    "question": "Quel est le nom de la ville où se déroule l'histoire de « Le Bossu de Notre-Dame » ?",
+    "choices": ["Paris", "Londres", "Venise", "New York"],
+    "correct_answer": "Paris"
+  },
+  {
+    "id": 23,
+    "question": "Dans « La Reine des neiges 2 », quel est le nom de la tribu de Kristoff ?",
+    "choices": ["Trolls", "Elfe", "Renard", "Gnome"],
+    "correct_answer": "Trolls"
+  },
+  {
+    "id": 24,
+    "question": "Quel est le nom de l'éléphant qui peut voler dans « Dumbo » ?",
+    "choices": ["Dumbo", "Timothée", "Peanuts", "Jumbo Jr."],
+    "correct_answer": "Dumbo"
+  },
+  {
+    "id": 25,
+    "question": "Dans « Aladdin », quel est le nom de l'animal de compagnie de Jasmine ?",
+    "choices": ["Rajah", "Abu", "Iago", "Sultan"],
+    "correct_answer": "Rajah"
+  }
+]

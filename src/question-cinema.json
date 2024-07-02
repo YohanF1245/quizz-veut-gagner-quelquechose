@@ -1,0 +1,331 @@
+[
+    {
+      "id": 1,
+      "question": "Quel film de 1939 est souvent considéré comme le plus grand film de tous les temps ?",
+      "choices": ["Autant en emporte le vent", "Le Magicien d'Oz", "Citizen Kane", "Casablanca"],
+      "correct_answer": "Autant en emporte le vent"
+    },
+    {
+      "id": 2,
+      "question": "Dans quel film Humphrey Bogart prononce-t-il la célèbre réplique « Here's looking at you, kid » ?",
+      "choices": ["Casablanca", "Le Faucon maltais", "La Grande Évasion", "Key Largo"],
+      "correct_answer": "Casablanca"
+    },
+    {
+      "id": 3,
+      "question": "Quel film de 1960 réalisé par Alfred Hitchcock met en vedette Janet Leigh et Anthony Perkins ?",
+      "choices": ["Psychose", "Sueurs froides", "Fenêtre sur cour", "Les Oiseaux"],
+      "correct_answer": "Psychose"
+    },
+    {
+      "id": 4,
+      "question": "Quel film de Stanley Kubrick de 1968 est basé sur une nouvelle d'Arthur C. Clarke ?",
+      "choices": ["2001: L'Odyssée de l'espace", "Orange mécanique", "Dr. Folamour", "Barry Lyndon"],
+      "correct_answer": "2001: L'Odyssée de l'espace"
+    },
+    {
+      "id": 5,
+      "question": "Quel film de 1972 réalisé par Francis Ford Coppola est basé sur un roman de Mario Puzo ?",
+      "choices": ["Le Parrain", "Apocalypse Now", "La Conversation", "Cotton Club"],
+      "correct_answer": "Le Parrain"
+    },
+    {
+      "id": 6,
+      "question": "Qui a réalisé le film « Pulp Fiction » ?",
+      "choices": ["Quentin Tarantino", "Martin Scorsese", "Steven Spielberg", "Christopher Nolan"],
+      "correct_answer": "Quentin Tarantino"
+    },
+    {
+      "id": 7,
+      "question": "Quel réalisateur est connu pour ses films muets comme « La Ruée vers l'or » et « Les Temps modernes » ?",
+      "choices": ["Charlie Chaplin", "Buster Keaton", "Harold Lloyd", "D.W. Griffith"],
+      "correct_answer": "Charlie Chaplin"
+    },
+    {
+      "id": 8,
+      "question": "Qui a réalisé le film « Titanic » en 1997 ?",
+      "choices": ["James Cameron", "Steven Spielberg", "Ridley Scott", "Peter Jackson"],
+      "correct_answer": "James Cameron"
+    },
+    {
+      "id": 9,
+      "question": "Quel réalisateur est célèbre pour sa trilogie « Le Seigneur des anneaux » ?",
+      "choices": ["Peter Jackson", "George Lucas", "Steven Spielberg", "James Cameron"],
+      "correct_answer": "Peter Jackson"
+    },
+    {
+      "id": 10,
+      "question": "Qui a réalisé « Inception » en 2010 ?",
+      "choices": ["Christopher Nolan", "David Fincher", "Quentin Tarantino", "Ridley Scott"],
+      "correct_answer": "Christopher Nolan"
+    },
+    {
+      "id": 11,
+      "question": "Qui a joué le rôle principal dans « Forrest Gump » ?",
+      "choices": ["Tom Hanks", "Robin Williams", "Kevin Costner", "John Travolta"],
+      "correct_answer": "Tom Hanks"
+    },
+    {
+      "id": 12,
+      "question": "Quelle actrice a remporté l'Oscar de la meilleure actrice pour son rôle dans « La La Land » ?",
+      "choices": ["Emma Stone", "Jennifer Lawrence", "Natalie Portman", "Meryl Streep"],
+      "correct_answer": "Emma Stone"
+    },
+    {
+      "id": 13,
+      "question": "Qui joue le personnage de Jack Sparrow dans « Pirates des Caraïbes » ?",
+      "choices": ["Johnny Depp", "Orlando Bloom", "Brad Pitt", "Leonardo DiCaprio"],
+      "correct_answer": "Johnny Depp"
+    },
+    {
+      "id": 14,
+      "question": "Quel acteur a interprété le rôle de Neo dans « Matrix » ?",
+      "choices": ["Keanu Reeves", "Will Smith", "Tom Cruise", "Johnny Depp"],
+      "correct_answer": "Keanu Reeves"
+    },
+    {
+      "id": 15,
+      "question": "Qui a joué le rôle principal dans « Gladiator » ?",
+      "choices": ["Russell Crowe", "Mel Gibson", "Brad Pitt", "Hugh Jackman"],
+      "correct_answer": "Russell Crowe"
+    },
+    {
+      "id": 16,
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+      "choices": ["Parasite", "1917", "Once Upon a Time in Hollywood", "Joker"],
+      "correct_answer": "Parasite"
+    },
+    {
+      "id": 17,
+      "question": "Qui a remporté l'Oscar du meilleur acteur en 2020 ?",
+      "choices": ["Joaquin Phoenix", "Leonardo DiCaprio", "Adam Driver", "Antonio Banderas"],
+      "correct_answer": "Joaquin Phoenix"
+    },
+    {
+      "id": 18,
+      "question": "Quel réalisateur a remporté l'Oscar du meilleur réalisateur pour « La Liste de Schindler » ?",
+      "choices": ["Steven Spielberg", "Martin Scorsese", "Quentin Tarantino", "James Cameron"],
+      "correct_answer": "Steven Spielberg"
+    },
+    {
+      "id": 19,
+      "question": "Quel film d'animation a remporté l'Oscar du meilleur film d'animation en 2019 ?",
+      "choices": ["Toy Story 4", "Les Indestructibles 2", "Ralph 2.0", "Spider-Man: New Generation"],
+      "correct_answer": "Toy Story 4"
+    },
+    {
+      "id": 20,
+      "question": "Quel film a remporté la Palme d'Or au Festival de Cannes en 2019 ?",
+      "choices": ["Parasite", "Once Upon a Time in Hollywood", "Douleur et gloire", "Portrait de la jeune fille en feu"],
+      "correct_answer": "Parasite"
+    },
+    {
+      "id": 21,
+      "question": "Quel film de super-héros de Marvel met en scène un personnage nommé Thanos ?",
+      "choices": ["Avengers: Infinity War", "Black Panther", "Spider-Man: Homecoming", "Thor: Ragnarok"],
+      "correct_answer": "Avengers: Infinity War"
+    },
+    {
+      "id": 22,
+      "question": "Dans quel film de Christopher Nolan sorti en 2020 un agent secret manipule-t-il le temps pour prévenir la Troisième Guerre mondiale ?",
+      "choices": ["Tenet", "Dunkerque", "Interstellar", "Le Prestige"],
+      "correct_answer": "Tenet"
+    },
+    {
+      "id": 23,
+      "question": "Qui joue le rôle principal dans le film « Joker » de 2019 ?",
+      "choices": ["Joaquin Phoenix", "Robert De Niro", "Bradley Cooper", "Christian Bale"],
+      "correct_answer": "Joaquin Phoenix"
+    },
+    {
+      "id": 24,
+      "question": "Quel film de 1994 met en vedette Tim Robbins et Morgan Freeman ?",
+      "choices": ["Les Évadés", "Forrest Gump", "Pulp Fiction", "Braveheart"],
+      "correct_answer": "Les Évadés"
+    },
+    {
+      "id": 25,
+      "question": "Quel film d'animation de 1994 a été produit par Disney et met en scène un lion nommé Simba ?",
+      "choices": ["Le Roi Lion", "Aladdin", "Mulan", "Hercule"],
+      "correct_answer": "Le Roi Lion"
+    },
+    {
+      "id": 26,
+      "question": "Qui a joué le rôle principal dans le film « American Psycho » ?",
+      "choices": ["Christian Bale", "Leonardo DiCaprio", "Brad Pitt", "Edward Norton"],
+      "correct_answer": "Christian Bale"
+    },
+    {
+      "id": 27,
+      "question": "Quel film de 2010 met en vedette Leonardo DiCaprio en tant que voleur d'idées ?",
+      "choices": ["Inception", "Shutter Island", "Le Loup de Wall Street", "The Revenant"],
+      "correct_answer": "Inception"
+    },
+    {
+      "id": 28,
+      "question": "Qui a réalisé le film « Le Fabuleux Destin d'Amélie Poulain » ?",
+      "choices": ["Jean-Pierre Jeunet", "Luc Besson", "François Truffaut", "Claude Chabrol"],
+      "correct_answer": "Jean-Pierre Jeunet"
+    }, {
+        "id": 29,
+        "question": "Quel film a remporté l'Oscar du meilleur film en 1994 ?",
+        "choices": ["Forrest Gump", "Pulp Fiction", "Les Évadés", "Quatre mariages et un enterrement"],
+        "correct_answer": "Forrest Gump"
+      },
+      {
+        "id": 30,
+        "question": "Dans quel film de 1984 Arnold Schwarzenegger joue-t-il un cyborg assassin ?",
+        "choices": ["Terminator", "Commando", "Predator", "Total Recall"],
+        "correct_answer": "Terminator"
+      },
+      {
+        "id": 31,
+        "question": "Qui a réalisé le film « E.T. l'extra-terrestre » ?",
+        "choices": ["Steven Spielberg", "George Lucas", "James Cameron", "Ridley Scott"],
+        "correct_answer": "Steven Spielberg"
+      },
+      {
+        "id": 32,
+        "question": "Quel film d'animation japonais de 2001 a été réalisé par Hayao Miyazaki et produit par le Studio Ghibli ?",
+        "choices": ["Le Voyage de Chihiro", "Princesse Mononoké", "Le Château dans le ciel", "Mon voisin Totoro"],
+        "correct_answer": "Le Voyage de Chihiro"
+      },
+      {
+        "id": 33,
+        "question": "Quel film de 1995 réalisé par David Fincher met en vedette Brad Pitt et Morgan Freeman ?",
+        "choices": ["Seven", "Fight Club", "Zodiac", "L'Étrange Histoire de Benjamin Button"],
+        "correct_answer": "Seven"
+      },
+      {
+        "id": 34,
+        "question": "Quel réalisateur est connu pour ses films « Pulp Fiction », « Kill Bill » et « Django Unchained » ?",
+        "choices": ["Quentin Tarantino", "Martin Scorsese", "Steven Spielberg", "Christopher Nolan"],
+        "correct_answer": "Quentin Tarantino"
+      },
+      {
+        "id": 35,
+        "question": "Quel film de 1993 réalisé par Steven Spielberg est basé sur une histoire vraie pendant la Seconde Guerre mondiale ?",
+        "choices": ["La Liste de Schindler", "Il faut sauver le soldat Ryan", "La Ligne verte", "Un homme d'exception"],
+        "correct_answer": "La Liste de Schindler"
+      },
+      {
+        "id": 36,
+        "question": "Quel acteur a joué le rôle principal dans le film « Drive » de 2011 ?",
+        "choices": ["Ryan Gosling", "Brad Pitt", "Leonardo DiCaprio", "Jake Gyllenhaal"],
+        "correct_answer": "Ryan Gosling"
+      },
+      {
+        "id": 37,
+        "question": "Quel film de 1999 réalisé par les Wachowski met en vedette Keanu Reeves ?",
+        "choices": ["Matrix", "Johnny Mnemonic", "Speed", "Point Break"],
+        "correct_answer": "Matrix"
+      },
+      {
+        "id": 38,
+        "question": "Quel film de 1985 réalisé par Robert Zemeckis met en vedette Michael J. Fox en tant que voyageur temporel ?",
+        "choices": ["Retour vers le futur", "Qui veut la peau de Roger Rabbit ?", "Forrest Gump", "Le Pôle Express"],
+        "correct_answer": "Retour vers le futur"
+      },
+      {
+        "id": 39,
+        "question": "Dans quel film de 1982 un groupe d'enfants aide un extraterrestre à rentrer chez lui ?",
+        "choices": ["E.T. l'extra-terrestre", "Rencontres du troisième type", "Explorers", "Les Goonies"],
+        "correct_answer": "E.T. l'extra-terrestre"
+      },
+      {
+        "id": 40,
+        "question": "Quel acteur a joué le rôle du Joker dans « The Dark Knight » de 2008 ?",
+        "choices": ["Heath Ledger", "Jared Leto", "Joaquin Phoenix", "Jack Nicholson"],
+        "correct_answer": "Heath Ledger"
+      },
+      {
+        "id": 41,
+        "question": "Quel film de science-fiction de 1982 réalisé par Ridley Scott met en scène Harrison Ford ?",
+        "choices": ["Blade Runner", "Alien", "Le Fugitif", "Indiana Jones et les aventuriers de l'arche perdue"],
+        "correct_answer": "Blade Runner"
+      },
+      {
+        "id": 42,
+        "question": "Quel réalisateur a remporté l'Oscar du meilleur réalisateur pour le film « Birdman » ?",
+        "choices": ["Alejandro González Iñárritu", "Alfonso Cuarón", "Guillermo del Toro", "Ang Lee"],
+        "correct_answer": "Alejandro González Iñárritu"
+      },
+      {
+        "id": 43,
+        "question": "Quel film de 2014 réalisé par Christopher Nolan explore le voyage interstellaire pour sauver l'humanité ?",
+        "choices": ["Interstellar", "Inception", "Gravity", "Le Prestige"],
+        "correct_answer": "Interstellar"
+      },
+      {
+        "id": 44,
+        "question": "Quel film d'horreur de 1973 réalisé par William Friedkin met en scène une jeune fille possédée ?",
+        "choices": ["L'Exorciste", "Halloween", "Massacre à la tronçonneuse", "Vendredi 13"],
+        "correct_answer": "L'Exorciste"
+      },
+      {
+        "id": 45,
+        "question": "Quel film de 1984 réalisé par James Cameron met en scène un robot assassin venu du futur ?",
+        "choices": ["Terminator", "RoboCop", "Blade Runner", "Total Recall"],
+        "correct_answer": "Terminator"
+      },
+      {
+        "id": 46,
+        "question": "Quel réalisateur est connu pour ses films « Taxi Driver », « Les Affranchis » et « Le Loup de Wall Street » ?",
+        "choices": ["Martin Scorsese", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan"],
+        "correct_answer": "Martin Scorsese"
+      },
+      {
+        "id": 47,
+        "question": "Quel film de 1975 réalisé par Steven Spielberg met en scène un grand requin blanc terrorisant une station balnéaire ?",
+        "choices": ["Les Dents de la mer", "Rencontres du troisième type", "Jurassic Park", "Le Monde perdu"],
+        "correct_answer": "Les Dents de la mer"
+      },
+      {
+        "id": 48,
+        "question": "Quel film de 1997 réalisé par James Cameron raconte l'histoire du naufrage du Titanic ?",
+        "choices": ["Titanic", "Abyss", "True Lies", "Le Secret de l'abîme"],
+        "correct_answer": "Titanic"
+      },
+      {
+        "id": 49,
+        "question": "Dans quel film de 1988 Bruce Willis joue-t-il un policier essayant de sauver des otages dans un gratte-ciel ?",
+        "choices": ["Piège de cristal", "L'Arme fatale", "48 heures", "Code Mercury"],
+        "correct_answer": "Piège de cristal"
+      },
+      {
+        "id": 50,
+        "question": "Quel film de 1994 met en scène une prison et ses détenus, dont un joué par Tim Robbins ?",
+        "choices": ["Les Évadés", "Le Dernier Château", "La Ligne verte", "L'Évadé d'Alcatraz"],
+        "correct_answer": "Les Évadés"
+      },
+      {
+        "id": 51,
+        "question": "Quel film d'animation de 1995 est le premier long métrage entièrement en images de synthèse ?",
+        "choices": ["Toy Story", "Fourmiz", "1001 pattes", "Shrek"],
+        "correct_answer": "Toy Story"
+      },
+      {
+        "id": 52,
+        "question": "Dans quel film de 1993 Tom Hanks joue-t-il un avocat atteint du SIDA ?",
+        "choices": ["Philadelphia", "Forrest Gump", "Le Terminal", "Seul au monde"],
+        "correct_answer": "Philadelphia"
+      },
+      {
+        "id": 53,
+        "question": "Quel film de science-fiction de 1999 a popularisé l'utilisation du bullet time ?",
+        "choices": ["Matrix", "Star Wars: La Menace fantôme", "Le Cinquième Élément", "Dark City"],
+        "correct_answer": "Matrix"
+      },
+      {
+        "id": 54,
+        "question": "Quel film de 1980 réalisé par Stanley Kubrick est basé sur un roman de Stephen King ?",
+        "choices": ["Shining", "Carrie", "Christine", "Cujo"],
+        "correct_answer": "Shining"
+      },
+      {
+        "id": 55,
+        "question": "Quel acteur a joué le rôle de Forrest Gump ?",
+        "choices": ["Tom Hanks", "Robin Williams", "Bill Murray", "Robert Redford"],
+        "correct_answer": "Tom Hanks"
+      }
+]

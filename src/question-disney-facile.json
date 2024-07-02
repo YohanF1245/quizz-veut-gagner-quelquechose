@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "question": "Quel est le nom de la souris la plus célèbre de Disney ?",
+      "choices": ["Mickey Mouse", "Jerry Mouse", "Minnie Mouse", "Stuart Little"],
+      "correct_answer": "Mickey Mouse"
+    },
+    {
+      "id": 2,
+      "question": "Dans quel film Disney Elsa chante-t-elle « Libérée, Délivrée » ?",
+      "choices": ["La Reine des neiges", "La Belle et la Bête", "Raiponce", "Cendrillon"],
+      "correct_answer": "La Reine des neiges"
+    },
+    {
+      "id": 3,
+      "question": "Quel est le nom du poisson clown dans « Le Monde de Nemo » ?",
+      "choices": ["Nemo", "Marlin", "Dory", "Squirt"],
+      "correct_answer": "Nemo"
+    },
+    {
+      "id": 4,
+      "question": "Quel est le nom du lionceau protagoniste dans « Le Roi Lion » ?",
+      "choices": ["Simba", "Mufasa", "Scar", "Timon"],
+      "correct_answer": "Simba"
+    },
+    {
+      "id": 5,
+      "question": "Quel est le nom de la princesse qui dort dans « La Belle au bois dormant » ?",
+      "choices": ["Aurore", "Cendrillon", "Blanche-Neige", "Jasmine"],
+      "correct_answer": "Aurore"
+    },
+    {
+      "id": 6,
+      "question": "Qui est le génie dans « Aladdin » ?",
+      "choices": ["Génie", "Jafar", "Abu", "Iago"],
+      "correct_answer": "Génie"
+    },
+    {
+      "id": 7,
+      "question": "Quel est le nom de la petite fille héroïne dans « Lilo et Stitch » ?",
+      "choices": ["Lilo", "Stitch", "Nani", "Cobra Bubbles"],
+      "correct_answer": "Lilo"
+    },
+    {
+      "id": 8,
+      "question": "Quel est le nom de la fée marraine de Cendrillon ?",
+      "choices": ["Marraine la Bonne Fée", "Fée Clochette", "Fée des Lilas", "Fée Morgane"],
+      "correct_answer": "Marraine la Bonne Fée"
+    },
+    {
+      "id": 9,
+      "question": "Quel est le nom du personnage principal de « Le Livre de la jungle » ?",
+      "choices": ["Mowgli", "Baloo", "Bagheera", "Shere Khan"],
+      "correct_answer": "Mowgli"
+    },
+    {
+      "id": 10,
+      "question": "Dans « La Petite Sirène », quel est le nom de la sirène principale ?",
+      "choices": ["Ariel", "Ursula", "Sebastian", "Eric"],
+      "correct_answer": "Ariel"
+    },
+    {
+      "id": 11,
+      "question": "Quel est le nom du petit poisson qui accompagne Ariel dans « La Petite Sirène » ?",
+      "choices": ["Flounder", "Scuttle", "King Triton", "Sebastian"],
+      "correct_answer": "Flounder"
+    },
+    {
+      "id": 12,
+      "question": "Dans « Toy Story », quel est le nom du cow-boy jouet ?",
+      "choices": ["Woody", "Buzz", "Jessie", "Rex"],
+      "correct_answer": "Woody"
+    },
+    {
+      "id": 13,
+      "question": "Quel est le nom de la sorcière maléfique dans « La Belle au bois dormant » ?",
+      "choices": ["Maléfique", "Cruella", "Gothel", "Ursula"],
+      "correct_answer": "Maléfique"
+    },
+    {
+      "id": 14,
+      "question": "Dans « Le Monde de Nemo », quel type de poisson est Dory ?",
+      "choices": ["Un poisson chirurgien bleu", "Un poisson clown", "Un requin", "Une méduse"],
+      "correct_answer": "Un poisson chirurgien bleu"
+    },
+    {
+      "id": 15,
+      "question": "Quel est le nom du roi des singes dans « Le Livre de la jungle » ?",
+      "choices": ["Roi Louie", "Baloo", "Shere Khan", "Bagheera"],
+      "correct_answer": "Roi Louie"
+    },
+    {
+      "id": 16,
+      "question": "Quel est le nom de la petite chenille dans « Alice au pays des merveilles » ?",
+      "choices": ["Absolem", "Tweedledee", "Cheshire", "March Hare"],
+      "correct_answer": "Absolem"
+    },
+    {
+      "id": 17,
+      "question": "Qui est le compagnon de Tarzan dans la jungle ?",
+      "choices": ["Terk", "Clayton", "Jane", "Kala"],
+      "correct_answer": "Terk"
+    },
+    {
+      "id": 18,
+      "question": "Quel est le nom du méchant dans « La Petite Sirène » ?",
+      "choices": ["Ursula", "Eric", "Flotsam", "Jetsam"],
+      "correct_answer": "Ursula"
+    },
+    {
+      "id": 19,
+      "question": "Quel est le nom du chien de Mickey Mouse ?",
+      "choices": ["Pluto", "Goofy", "Donald", "Dingo"],
+      "correct_answer": "Pluto"
+    },
+    {
+      "id": 20,
+      "question": "Dans « Aladdin », quel animal est Rajah ?",
+      "choices": ["Tigre", "Lion", "Panthère", "Léopard"],
+      "correct_answer": "Tigre"
+    },
+    {
+      "id": 21,
+      "question": "Quel est le nom de la mère de Bambi ?",
+      "choices": ["Ena", "Faline", "Belle", "Féline"],
+      "correct_answer": "Ena"
+    },
+    {
+      "id": 22,
+      "question": "Quel est le nom de la fée dans « La Belle au bois dormant » qui protège Aurore ?",
+      "choices": ["Fée des Lilas", "Marraine la Bonne Fée", "Fée Clochette", "Fée Morgane"],
+      "correct_answer": "Fée des Lilas"
+    },
+    {
+      "id": 23,
+      "question": "Dans « Le Roi Lion », quel est le nom du meilleur ami de Simba ?",
+      "choices": ["Nala", "Timon", "Pumbaa", "Zazu"],
+      "correct_answer": "Pumbaa"
+    },
+    {
+      "id": 24,
+      "question": "Quel est le nom du méchant dans « La Belle au bois dormant » ?",
+      "choices": ["Maléfique", "Cruella", "Gothel", "Ursula"],
+      "correct_answer": "Maléfique"
+    },
+    {
+      "id": 25,
+      "question": "Dans « Peter Pan », quel est le nom du capitaine pirate ?",
+      "choices": ["Crochet", "Barbe-Noire", "Barbe-Rouge", "Barbe-Bleue"],
+      "correct_answer": "Crochet"
+    }
+  ]
