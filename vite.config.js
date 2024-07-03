@@ -17,7 +17,7 @@ export default defineConfig(({ command }) => {
     config.base = '/quizz-veut-gagner-quelquechose/'
   }
 
-  // return config
+  return config
   // server: {
   //   host: 'localhost',
   //   port: 3000,
