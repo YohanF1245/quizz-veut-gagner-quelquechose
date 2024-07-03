@@ -7,6 +7,7 @@ import harryPotter from './question-harry-potter.json'
 import questions from './questions.json'
 import './title.css';
 import './modal-end.css';
+import './select.css';
 import backgroundimage from './qui-veut-gagner-des-millions.jpg'
 
 function App() {
@@ -34,7 +35,10 @@ function App() {
   }
  const handleSelect = (event) => {
     const selectedValue = event.target.value;
+  if(selectedValue !=="nothing"){
    setSelectedTheme(selectedValue);
+  }
+    
   }
   const styleBar = {
     backgroundImage: 'linear-gradient(to top, #1600ff, #6547ff, #8f73ff, #b39dff, #d3c7ff, #d3c7ff, #d3c7ff, #d3c7ff, #b39dff, #8f73ff, #6547ff, #1600ff)',
@@ -153,10 +157,9 @@ function App() {
     <Title></Title>
     
     </div>
-    <div style={{backgroundColor: "white", width: "30%", marginLeft:"35%", textAlign:"center"}}>
-      <label htmlFor="theme">Choisissez un theme</label>
+    <div  class="select-category" style={{ width: "30%", marginLeft:"35%", textAlign:"center"}}>
       <select onChange={handleSelect} name="theme" id="theme"> 
-      <option value="">Sélectionnez un thème</option>
+      <option value="nothing">Sélectionnez un thème</option>
       {datas.map((item) => (
           <option key={item.value} value={item.label}>
             {item.label}
