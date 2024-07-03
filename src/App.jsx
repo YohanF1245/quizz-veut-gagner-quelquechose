@@ -12,26 +12,30 @@ import backgroundimage from './qui-veut-gagner-des-millions.jpg'
 function App() {
   const datas = [
     { value: 'disneyEasy', label: "Disney facile"},
-    { value: 'disneyMedium', label: "Disney medium"},
-    { value: 'disneyHard', label: "Disney hard"},
+    { value: 'disneyMedium', label: "Disney moyen"},
+    { value: 'disneyHard', label: "Disney difficile"},
     { value: 'cinema', label: "Cinema"},
-    { value: 'harryPotter', label: "Harry potter"}
+    { value: 'harryPotter', label: "Harry Potter"}
   ];
-  const [selectedTheme, setSelectedTheme] = useState("Cinema");
+ 
   
-  console.log(questions.categories.find(category => category.name === selectedTheme));
+  
+  const [selectedTheme, setSelectedTheme] = useState("Cinema");
   const [questionId, setQuestionId] = useState(randomQuestion(questions.categories.find(category => category.name === selectedTheme).questions));
   const [winDisplay, setWinDisplay] = useState('none');
   const [loseDisplay, setLoseDisplay] = useState('none');
   const [nextQuestion, setNextQuestion] = useState('none');
   const [endDisplay, setEndDisplay] = useState('none');
-
+  console.log(questions.categories.find(category => category.name === selectedTheme));
   const fontStyle = {
     textShadow: '0 0 9px #000000, 0 0 9px #000000',
     color: 'white',
     fontSize: "25px",
   }
-
+ const handleSelect = (event) => {
+    const selectedValue = event.target.value;
+   setSelectedTheme(selectedValue);
+  }
   const styleBar = {
     backgroundImage: 'linear-gradient(to top, #1600ff, #6547ff, #8f73ff, #b39dff, #d3c7ff, #d3c7ff, #d3c7ff, #d3c7ff, #b39dff, #8f73ff, #6547ff, #1600ff)',
     minHeight: '100px',
@@ -119,10 +123,7 @@ function App() {
     borderRight: "0px transparent",
     borderRadius: '0% 100% 100% 0%',
   }
-  const handleSelect = (event) => {
-    const selectedValue = event.target.value;
-   setSelectedTheme(selectedValue);
-  }
+  
   const handleClick = (event) => {
     setEndDisplay("flex");
     setNextQuestion("block");
