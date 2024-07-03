@@ -1,6 +1,7 @@
 import { useState, useSyncExternalStore } from 'react'
 import dataeasy from './question-disney-facile.json'
 import datad from './question-disney-moyen.json'
+import './title.css';
 import data from './question-disney-difficile.json'
 import backgroundimage from './qui-veut-gagner-des-millions.jpg'
 
@@ -9,7 +10,7 @@ function App() {
   const [winDisplay, setWinDisplay] = useState('none');
   const [loseDisplay, setLoseDisplay] = useState('none');
   const [nextQuestion, setNextQuestion] = useState('none');
-  
+  const [endDisplay, setEndDisplay] = useState('none');
   
 
   const fontStyle = {
@@ -68,6 +69,17 @@ function App() {
     borderRight: "0px transparent",
     borderRadius: '0% 100% 100% 0%',
   }
+  const styleEnd = {
+    width:"30%",
+    height:'30%',
+   borderRadius: "35px",
+   position:"absolute",
+   left:"50%",
+   transform: "translate(-50%,0)",
+    display:"block",
+    backgroundColor: "white",
+  }
+
   const styleHexLeftButt = {
     backgroundImage: 'linear-gradient(to top, #1600ff, #6547ff, #8f73ff, #b39dff, #d3c7ff, #d3c7ff, #d3c7ff, #d3c7ff, #b39dff, #8f73ff, #6547ff, #1600ff)',
     
@@ -90,6 +102,7 @@ function App() {
     borderRadius: '0% 100% 100% 0%',
   }
   const handleClick = (event) => {
+    setEndDisplay("block");
     setNextQuestion("block");
     if(event.target.value===data[questionId].correct_answer){
     setWinDisplay("block");
@@ -104,12 +117,21 @@ function App() {
     setWinDisplay("none");
     setLoseDisplay("none");
     setNextQuestion("none");
+    setEndDisplay('none');
+  }
+  const combinedStyleEnd = {
+    ...styleEnd,
+    display: endDisplay
   }
   return (
     <div style={{height:"100vh", backgroundImage: `url(${backgroundimage})`, backgroundRepeat:"no-repeat", backgroundSize:"100%"}}>
+    <div className="text-effect-wrapper , sizeMatters">
+      
     <Title></Title>
+    </div>
     {/* <img src={backgroundimage} style={{width:"50%", marginLeft:"25%"}}></img> */}
-    <div style={{marginTop:"35%", display:'flex', alignItems:'center'}}>
+    <div style={{position: "absolute", bottom:"0",width:"100%"}}>
+    <div style={{ display:'flex', alignItems:'center'}}>
     <div style={styleMiniBar}></div>
     <div style={styleHexLeft}></div>
     <div style={styleBar}>
@@ -139,10 +161,13 @@ function App() {
     <div style={styleHexRightButt}></div>
     <div style={styleMiniBar}></div>
     </div>
-
+    </div>
+    
+    <div style={combinedStyleEnd}>
     <p style={{ display: winDisplay }}>Gagné ! En effet la bonne réponse est : {data[questionId].correct_answer}</p>
     <p style={{ display: loseDisplay }}>Perdu ! La bonne réponse était : {data[questionId].correct_answer}</p>
     <input style={{ display: nextQuestion }} onClick={nextQuestionButton} type="button" value="Question suivante"></input>
+    </div>
     </div>
 )
 }
@@ -154,7 +179,7 @@ data.map(question => {
   console.log(question.question)
 });
 function Title(){
-  return(<h1>Quizz veux gagner quelquechose</h1>)
+  return(<h1 className="text">Quizz veux gagner quelquechose</h1>)
 }
  function Buttonsdf(){
    return(<input type="button" id={id} value={value}></input>)
