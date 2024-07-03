@@ -1,0 +1,1211 @@
+{
+    "categories": [
+      {
+        "name": "Disney facile",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Quel est le nom de la souris la plus célèbre de Disney ?",
+                "choices": ["Mickey Mouse", "Jerry Mouse", "Minnie Mouse", "Stuart Little"],
+                "correct_answer": "Mickey Mouse"
+              },
+              {
+                "id": 2,
+                "question": "Dans quel film Disney Elsa chante-t-elle « Libérée, Délivrée » ?",
+                "choices": ["La Reine des neiges", "La Belle et la Bête", "Raiponce", "Cendrillon"],
+                "correct_answer": "La Reine des neiges"
+              },
+              {
+                "id": 3,
+                "question": "Quel est le nom du poisson clown dans « Le Monde de Nemo » ?",
+                "choices": ["Nemo", "Marlin", "Dory", "Squirt"],
+                "correct_answer": "Nemo"
+              },
+              {
+                "id": 4,
+                "question": "Quel est le nom du lionceau protagoniste dans « Le Roi Lion » ?",
+                "choices": ["Simba", "Mufasa", "Scar", "Timon"],
+                "correct_answer": "Simba"
+              },
+              {
+                "id": 5,
+                "question": "Quel est le nom de la princesse qui dort dans « La Belle au bois dormant » ?",
+                "choices": ["Aurore", "Cendrillon", "Blanche-Neige", "Jasmine"],
+                "correct_answer": "Aurore"
+              },
+              {
+                "id": 6,
+                "question": "Qui est le génie dans « Aladdin » ?",
+                "choices": ["Génie", "Jafar", "Abu", "Iago"],
+                "correct_answer": "Génie"
+              },
+              {
+                "id": 7,
+                "question": "Quel est le nom de la petite fille héroïne dans « Lilo et Stitch » ?",
+                "choices": ["Lilo", "Stitch", "Nani", "Cobra Bubbles"],
+                "correct_answer": "Lilo"
+              },
+              {
+                "id": 8,
+                "question": "Quel est le nom de la fée marraine de Cendrillon ?",
+                "choices": ["Marraine la Bonne Fée", "Fée Clochette", "Fée des Lilas", "Fée Morgane"],
+                "correct_answer": "Marraine la Bonne Fée"
+              },
+              {
+                "id": 9,
+                "question": "Quel est le nom du personnage principal de « Le Livre de la jungle » ?",
+                "choices": ["Mowgli", "Baloo", "Bagheera", "Shere Khan"],
+                "correct_answer": "Mowgli"
+              },
+              {
+                "id": 10,
+                "question": "Dans « La Petite Sirène », quel est le nom de la sirène principale ?",
+                "choices": ["Ariel", "Ursula", "Sebastian", "Eric"],
+                "correct_answer": "Ariel"
+              },
+              {
+                "id": 11,
+                "question": "Quel est le nom du petit poisson qui accompagne Ariel dans « La Petite Sirène » ?",
+                "choices": ["Flounder", "Scuttle", "King Triton", "Sebastian"],
+                "correct_answer": "Flounder"
+              },
+              {
+                "id": 12,
+                "question": "Dans « Toy Story », quel est le nom du cow-boy jouet ?",
+                "choices": ["Woody", "Buzz", "Jessie", "Rex"],
+                "correct_answer": "Woody"
+              },
+              {
+                "id": 13,
+                "question": "Quel est le nom de la sorcière maléfique dans « La Belle au bois dormant » ?",
+                "choices": ["Maléfique", "Cruella", "Gothel", "Ursula"],
+                "correct_answer": "Maléfique"
+              },
+              {
+                "id": 14,
+                "question": "Dans « Le Monde de Nemo », quel type de poisson est Dory ?",
+                "choices": ["Un poisson chirurgien bleu", "Un poisson clown", "Un requin", "Une méduse"],
+                "correct_answer": "Un poisson chirurgien bleu"
+              },
+              {
+                "id": 15,
+                "question": "Quel est le nom du roi des singes dans « Le Livre de la jungle » ?",
+                "choices": ["Roi Louie", "Baloo", "Shere Khan", "Bagheera"],
+                "correct_answer": "Roi Louie"
+              },
+              {
+                "id": 16,
+                "question": "Quel est le nom de la petite chenille dans « Alice au pays des merveilles » ?",
+                "choices": ["Absolem", "Tweedledee", "Cheshire", "March Hare"],
+                "correct_answer": "Absolem"
+              },
+              {
+                "id": 17,
+                "question": "Qui est le compagnon de Tarzan dans la jungle ?",
+                "choices": ["Terk", "Clayton", "Jane", "Kala"],
+                "correct_answer": "Terk"
+              },
+              {
+                "id": 18,
+                "question": "Quel est le nom du méchant dans « La Petite Sirène » ?",
+                "choices": ["Ursula", "Eric", "Flotsam", "Jetsam"],
+                "correct_answer": "Ursula"
+              },
+              {
+                "id": 19,
+                "question": "Quel est le nom du chien de Mickey Mouse ?",
+                "choices": ["Pluto", "Goofy", "Donald", "Dingo"],
+                "correct_answer": "Pluto"
+              },
+              {
+                "id": 20,
+                "question": "Dans « Aladdin », quel animal est Rajah ?",
+                "choices": ["Tigre", "Lion", "Panthère", "Léopard"],
+                "correct_answer": "Tigre"
+              },
+              {
+                "id": 21,
+                "question": "Quel est le nom de la mère de Bambi ?",
+                "choices": ["Ena", "Faline", "Belle", "Féline"],
+                "correct_answer": "Ena"
+              },
+              {
+                "id": 22,
+                "question": "Quel est le nom de la fée dans « La Belle au bois dormant » qui protège Aurore ?",
+                "choices": ["Fée des Lilas", "Marraine la Bonne Fée", "Fée Clochette", "Fée Morgane"],
+                "correct_answer": "Fée des Lilas"
+              },
+              {
+                "id": 23,
+                "question": "Dans « Le Roi Lion », quel est le nom du meilleur ami de Simba ?",
+                "choices": ["Nala", "Timon", "Pumbaa", "Zazu"],
+                "correct_answer": "Pumbaa"
+              },
+              {
+                "id": 24,
+                "question": "Quel est le nom du méchant dans « La Belle au bois dormant » ?",
+                "choices": ["Maléfique", "Cruella", "Gothel", "Ursula"],
+                "correct_answer": "Maléfique"
+              },
+              {
+                "id": 25,
+                "question": "Dans « Peter Pan », quel est le nom du capitaine pirate ?",
+                "choices": ["Crochet", "Barbe-Noire", "Barbe-Rouge", "Barbe-Bleue"],
+                "correct_answer": "Crochet"
+              }
+        ]
+      },
+      {
+        "name": "Disney moyen",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Quel est le nom du compagnon de Mickey Mouse, souvent vêtu de vert ?",
+                "choices": ["Dingo", "Donald", "Pluto", "Goofy"],
+                "correct_answer": "Dingo"
+              },
+              {
+                "id": 2,
+                "question": "Dans « La Belle et la Bête », quel est le prénom de la Belle ?",
+                "choices": ["Belle", "Aurora", "Elsa", "Belle n'a pas de prénom"],
+                "correct_answer": "Belle"
+              },
+              {
+                "id": 3,
+                "question": "Quel est le nom du lion dans le film Disney « Le Roi Lion 2 : L'Honneur de la Tribu » ?",
+                "choices": ["Simba", "Kovu", "Mufasa", "Scar"],
+                "correct_answer": "Kovu"
+              },
+              {
+                "id": 4,
+                "question": "Quel est le nom du prince dans « La Belle au bois dormant » ?",
+                "choices": ["Philippe", "Éric", "Adam", "Stefan"],
+                "correct_answer": "Philippe"
+              },
+              {
+                "id": 5,
+                "question": "Dans « La Reine des neiges », quel est le nom de la montagne où Elsa se retire pour vivre seule ?",
+                "choices": ["Arendelle", "Montagne du Nord", "Montagne du Rocher", "Montagne de l'Isolation"],
+                "correct_answer": "Montagne du Nord"
+              },
+              {
+                "id": 6,
+                "question": "Quel est le nom de la chanson emblématique du film « Le Roi Lion » ?",
+                "choices": ["Hakuna Matata", "L'histoire de la vie", "Soyez prêtes", "L'amour brille sous les étoiles"],
+                "correct_answer": "L'histoire de la vie"
+              },
+              {
+                "id": 7,
+                "question": "Qui est le créateur du personnage de Mickey Mouse ?",
+                "choices": ["Walt Disney", "Roy Disney", "Ub Iwerks", "Marc Davis"],
+                "correct_answer": "Walt Disney"
+              },
+              {
+                "id": 8,
+                "question": "Quel est le nom du poisson amnésique dans « Le Monde de Nemo » ?",
+                "choices": ["Nemo", "Marlin", "Dory", "Bubbles"],
+                "correct_answer": "Dory"
+              },
+              {
+                "id": 9,
+                "question": "Dans « La Petite Sirène », quel est le nom du prince humain que Ariel aime ?",
+                "choices": ["Eric", "Philippe", "Adam", "Stefan"],
+                "correct_answer": "Eric"
+              },
+              {
+                "id": 10,
+                "question": "Quel est le nom du méchant prince dans « La Princesse et la Grenouille » ?",
+                "choices": ["Facilier", "Naveen", "Louis", "Tiana"],
+                "correct_answer": "Facilier"
+              },
+              {
+                "id": 11,
+                "question": "Dans « Aladdin », quel est le nom de la ville où se déroule l'histoire ?",
+                "choices": ["Agrabah", "Arendelle", "Atlantica", "Arendelle"],
+                "correct_answer": "Agrabah"
+              },
+              {
+                "id": 12,
+                "question": "Quel est le nom du compagnon de Aladdin, qui est un singe ?",
+                "choices": ["Abu", "Iago", "Rajah", "Tiger"],
+                "correct_answer": "Abu"
+              },
+              {
+                "id": 13,
+                "question": "Dans « Mulan », quel est le nom du dragon qui accompagne Mulan dans sa quête ?",
+                "choices": ["Mushu", "Cri-Kee", "Shan Yu", "Yao"],
+                "correct_answer": "Mushu"
+              },
+              {
+                "id": 14,
+                "question": "Quel est le nom du prince dans « La Belle et la Bête » ?",
+                "choices": ["Adam", "Éric", "Philippe", "Jean-Claude"],
+                "correct_answer": "Adam"
+              },
+              {
+                "id": 15,
+                "question": "Dans « Pocahontas », quel est le nom du meilleur ami de Pocahontas ?",
+                "choices": ["Meeko", "Flit", "Powhatan", "John Smith"],
+                "correct_answer": "Meeko"
+              },
+              {
+                "id": 16,
+                "question": "Quel est le nom du château où habite Belle dans « La Belle et la Bête » ?",
+                "choices": ["Château de la Rose", "Château des Neiges", "Château de la Bête", "Château Enchanté"],
+                "correct_answer": "Château de la Bête"
+              },
+              {
+                "id": 17,
+                "question": "Dans « Hercules », quel est le nom du satyre qui aide Hercules dans sa quête ?",
+                "choices": ["Philoctète", "Pegasus", "Zeus", "Hades"],
+                "correct_answer": "Philoctète"
+              },
+              {
+                "id": 18,
+                "question": "Quel est le nom du chien de chasse dans « La Belle et le Clochard » ?",
+                "choices": ["Clochard", "Napoleon", "Boris", "Jock"],
+                "correct_answer": "Jock"
+              },
+              {
+                "id": 19,
+                "question": "Dans « La Reine des neiges », quel est le nom de la montagne où Elsa se retire pour vivre seule ?",
+                "choices": ["Arendelle", "Montagne du Nord", "Montagne du Rocher", "Montagne de l'Isolation"],
+                "correct_answer": "Montagne du Nord"
+              },
+              {
+                "id": 20,
+                "question": "Quel est le nom du père de Nemo dans « Le Monde de Nemo » ?",
+                "choices": ["Marlin", "Dory", "Bruce", "Gill"],
+                "correct_answer": "Marlin"
+              },
+              {
+                "id": 21,
+                "question": "Dans « Mulan », quelle est la profession de Fa Zhou, le père de Mulan ?",
+                "choices": ["Forgeron", "Marchand", "Soldat", "Paysan"],
+                "correct_answer": "Forgeron"
+              },
+              {
+                "id": 22,
+                "question": "Quel est le nom de la ville où se déroule l'histoire de « Le Bossu de Notre-Dame » ?",
+                "choices": ["Paris", "Londres", "Venise", "New York"],
+                "correct_answer": "Paris"
+              },
+              {
+                "id": 23,
+                "question": "Dans « La Reine des neiges 2 », quel est le nom de la tribu de Kristoff ?",
+                "choices": ["Trolls", "Elfe", "Renard", "Gnome"],
+                "correct_answer": "Trolls"
+              },
+              {
+                "id": 24,
+                "question": "Quel est le nom de l'éléphant qui peut voler dans « Dumbo » ?",
+                "choices": ["Dumbo", "Timothée", "Peanuts", "Jumbo Jr."],
+                "correct_answer": "Dumbo"
+              },
+              {
+                "id": 25,
+                "question": "Dans « Aladdin », quel est le nom de l'animal de compagnie de Jasmine ?",
+                "choices": ["Rajah", "Abu", "Iago", "Sultan"],
+                "correct_answer": "Rajah"
+              }
+        ]
+      },
+      {
+        "name": "Disney difficile",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Quel acteur a prêté sa voix au personnage de Simba adulte dans le film d'animation « Le Roi Lion » en 1994 ?",
+                "choices": ["Matthew Broderick", "Jonathan Taylor Thomas", "Matthew Marsden", "Jason Marsden"],
+                "correct_answer": "Matthew Broderick"
+              },
+              {
+                "id": 2,
+                "question": "Dans « La Petite Sirène », quel est le nom du poisson qui accompagne Ariel dans ses aventures ?",
+                "choices": ["Flotsam", "Jetsam", "Flounder", "Scuttle"],
+                "correct_answer": "Flounder"
+              },
+              {
+                "id": 3,
+                "question": "Qui a conçu les costumes pour le film d'animation « La Belle et la Bête » (1991) ?",
+                "choices": ["Marc Davis", "Glen Keane", "Brittney Lee", "Ann Hould-Ward"],
+                "correct_answer": "Ann Hould-Ward"
+              },
+              {
+                "id": 4,
+                "question": "Dans « Tarzan », quel est le nom de la tribu qui recueille Tarzan après la mort de ses parents ?",
+                "choices": ["Gorilles", "Waziri", "Mangani", "Moussouri"],
+                "correct_answer": "Mangani"
+              },
+              {
+                "id": 5,
+                "question": "Quel est le nom du personnage de Disney qui chante la chanson « Gaston » dans le film « La Belle et la Bête » (1991) ?",
+                "choices": ["Gaston", "Le Fou", "Lumière", "Cogsworth"],
+                "correct_answer": "Le Fou"
+              },
+              {
+                "id": 6,
+                "question": "Dans « Pocahontas », quel est le nom de la chanson que Pocahontas chante lorsqu'elle veut savoir si John Smith est différent d'elle ?",
+                "choices": ["Savages", "Colors of the Wind", "Just Around the Riverbend", "If I Never Knew You"],
+                "correct_answer": "Colors of the Wind"
+              },
+              {
+                "id": 7,
+                "question": "Dans « Mulan », quel est le nom du soldat qui devient le meilleur ami de Mulan au camp d'entraînement ?",
+                "choices": ["Yao", "Chien-Po", "Ling", "Fa Zhou"],
+                "correct_answer": "Yao"
+              },
+              {
+                "id": 8,
+                "question": "Quel est le nom de la déesse de la mer dans le film « La Petite Sirène » ?",
+                "choices": ["Ursula", "Athena", "Morgana", "Amphitrite"],
+                "correct_answer": "Athena"
+              },
+              {
+                "id": 9,
+                "question": "Dans « Aladdin », combien de souhaits un génie peut-il accorder à une personne qui frotte la lampe magique ?",
+                "choices": ["3", "5", "7", "10"],
+                "correct_answer": "3"
+              },
+              {
+                "id": 10,
+                "question": "Dans « Le Roi Lion », quel est le nom de la gorge où Scar emmène Simba avant de l'attaquer ?",
+                "choices": ["Gorge des Éléphants", "Gorge des Antilopes", "Gorge des Gnous", "Gorge des Crocodiles"],
+                "correct_answer": "Gorge des Gnous"
+              },
+              {
+                "id": 11,
+                "question": "Qui est le compositeur de la bande originale du film « La Petite Sirène » (1989) ?",
+                "choices": ["Elton John", "Alan Menken", "Randy Newman", "Howard Ashman"],
+                "correct_answer": "Alan Menken"
+              },
+              {
+                "id": 12,
+                "question": "Quel est le nom du personnage de Disney qui est un robot de nettoyage dans le film « Wall-E » ?",
+                "choices": ["EVE", "AXIOM", "MO", "AUTO"],
+                "correct_answer": "EVE"
+              },
+              {
+                "id": 13,
+                "question": "Dans « Le Bossu de Notre-Dame », quel est le nom du juge corrompu qui poursuit Esmeralda ?",
+                "choices": ["Frollo", "Phoebus", "Clopin", "Quasimodo"],
+                "correct_answer": "Frollo"
+              },
+              {
+                "id": 14,
+                "question": "Quel personnage de Disney a chanté la chanson « Quand on prie la bonne étoile » dans le film « Pinocchio » (1940) ?",
+                "choices": ["Jiminy Cricket", "Geppetto", "Figaro", "Stromboli"],
+                "correct_answer": "Jiminy Cricket"
+              },
+              {
+                "id": 15,
+                "question": "Dans « Mulan », quelle est la première ligne de la chanson « Réflexion » chantée par Mulan ?",
+                "choices": ["Look at me, I will never pass for a perfect bride", "Who is that girl I see, staring straight back at me?", "Let's get down to business, to defeat the Huns", "You're unsuited for the rage of war"],
+                "correct_answer": "Who is that girl I see, staring straight back at me?"
+              },{
+                  "id": 16,
+                  "question": "Quel personnage de Disney a déclaré : « Vous êtes braver que vous le croyez, plus fort que vous semblez, et plus intelligent que vous pensez » ?",
+                  "choices": ["Tigrou", "Winnie l'ourson", "Alice", "Merlin"],
+                  "correct_answer": "Winnie l'ourson"
+                },
+                {
+                  "id": 17,
+                  "question": "Dans « La Reine des neiges », combien de jours Elsa et Anna sont-elles séparées après que Elsa ait quitté Arendelle ?",
+                  "choices": ["3 ans", "5 ans", "7 ans", "10 ans"],
+                  "correct_answer": "3 ans"
+                },
+                {
+                  "id": 18,
+                  "question": "Quel acteur a doublé la voix de Scar dans le film d'animation « Le Roi Lion » en 1994 ?",
+                  "choices": ["Jeremy Irons", "James Earl Jones", "Rowan Atkinson", "Jim Cummings"],
+                  "correct_answer": "Jeremy Irons"
+                },
+                {
+                  "id": 19,
+                  "question": "Dans le film « Alice au pays des merveilles », quel personnage dit : « Chaque aventure mérite une chanson » ?",
+                  "choices": ["Le Chapelier Fou", "Le Lièvre de Mars", "La Chenille", "Alice"],
+                  "correct_answer": "Le Chapelier Fou"
+                },
+                {
+                  "id": 20,
+                  "question": "Quel est le nom du personnage principal dans le film d'animation « Lilo & Stitch » ?",
+                  "choices": ["Stitch", "Lilo", "Nani", "Jumba"],
+                  "correct_answer": "Stitch"
+                },
+                {
+                  "id": 21,
+                  "question": "Dans « Mulan », quelle est la réplique de Mushu après avoir accidentellement brûlé la statue de famille de Mulan ?",
+                  "choices": ["Dishonor on you, dishonor on your cow", "My powers are beyond your mortal imagination", "The flower that blooms in adversity is the most rare and beautiful of all", "You don't meet a girl like that every dynasty"],
+                  "correct_answer": "Dishonor on you, dishonor on your cow"
+                },
+                {
+                  "id": 22,
+                  "question": "Quel est le nom du volcan sur l'île où Moana se rend dans le film « Vaiana, la légende du bout du monde » ?",
+                  "choices": ["Te Fiti", "Te Kā", "Te Whā", "Te Kaipo"],
+                  "correct_answer": "Te Kā"
+                },
+                {
+                  "id": 23,
+                  "question": "Qui a chanté la chanson « Un jour mon prince viendra » dans le film « Blanche-Neige et les Sept Nains » (1937) ?",
+                  "choices": ["Aurore", "Blanche-Neige", "Cendrillon", "Ariel"],
+                  "correct_answer": "Blanche-Neige"
+                },
+                {
+                  "id": 24,
+                  "question": "Dans « La Belle et la Bête », qui est le premier à se rendre compte que Gaston est dangereux pour Belle ?",
+                  "choices": ["Le père de Belle", "Lumière", "Maurice", "Mme Samovar"],
+                  "correct_answer": "Le père de Belle"
+                },
+                {
+                  "id": 25,
+                  "question": "Quel est le nom du dauphin qui est l'ami de Ariel dans le film « La Petite Sirène » ?",
+                  "choices": ["Scuttle", "Flounder", "Sebastian", "Triton"],
+                  "correct_answer": "Flounder"
+                },
+                {
+                  "id": 26,
+                  "question": "Dans « Le Livre de la jungle », quel est le nom du serpent qui tente de manger Mowgli ?",
+                  "choices": ["Kaa", "Shere Khan", "Bagheera", "Baloo"],
+                  "correct_answer": "Kaa"
+                },
+                {
+                  "id": 27,
+                  "question": "Quelle est la devise des trois mousquetaires dans le film d'animation « Mickey, Donald, Dingo : Les Trois Mousquetaires » (2004) ?",
+                  "choices": ["Tous pour un, un pour tous", "Un pour tous, tous pour un", "À chacun selon ses besoins", "Nous sommes invincibles"],
+                  "correct_answer": "Tous pour un, un pour tous"
+                },
+                {
+                  "id": 28,
+                  "question": "Dans « La Reine des neiges 2 », où Elsa trouve-t-elle un souvenir de son enfance ?",
+                  "choices": ["La salle du trône", "La bibliothèque", "Le grenier", "La grotte des esprits"],
+                  "correct_answer": "La grotte des esprits"
+                },
+                {
+                  "id": 29,
+                  "question": "Quel est le nom de la chanson d'ouverture du film « La Belle et la Bête » (1991) ?",
+                  "choices": ["Belle", "Histoire éternelle", "C'est la fête", "Je ne savais pas"],
+                  "correct_answer": "Histoire éternelle"
+                },
+                {
+                  "id": 30,
+                  "question": "Dans « La Belle et la Bête », quel est le nom de la chanson chantée par Gaston et ses acolytes dans la taverne ?",
+                  "choices": ["Gaston", "Le monde qui est le mien", "L'air du temps", "Je ne savais pas"],
+                  "correct_answer": "Gaston"
+                },
+                {
+                  "id": 31,
+                  "question": "Dans « Lilo & Stitch », quel est le nom du vaisseau spatial alien qui poursuit Stitch sur Terre ?",
+                  "choices": ["Galactic Federation", "Gantu", "Experiments", "Grand Councilwoman"],
+                  "correct_answer": "Gantu"
+                },
+                {
+                  "id": 32,
+                  "question": "Dans le film « Hercule », quelle épreuve Hercules doit-il réussir pour rejoindre les dieux de l'Olympe ?",
+                  "choices": ["Vaincre le Cerbère", "Sauver Meg", "Vaincre Hadès", "Retrouver sa force divine"],
+                  "correct_answer": "Vaincre le Cerbère"
+                },
+                {
+                  "id": 33,
+                  "question": "Quel est le nom de la montagne où se trouve la maison de Hercules dans le film d'animation « Hercule » ?",
+                  "choices": ["Mont Olympe", "Mont Parnasse", "Mont Athos", "Mont Oeta"],
+                  "correct_answer": "Mont Olympe"
+                },
+                {
+                  "id": 34,
+                  "question": "Qui a été la voix de la bête dans le film « La Belle et la Bête » de 1991 ?",
+                  "choices": ["Robbie Benson", "Paige O'Hara", "Angela Lansbury", "Richard White"],
+                  "correct_answer": "Robbie Benson"
+                },
+                {
+                  "id": 35,
+                  "question": "Quel personnage de Disney est surnommé « Stitch » ?",
+                  "choices": ["Expérience 626", "Expérience 624", "Expérience 635", "Expérience 610"],
+                  "correct_answer": "Expérience 626"
+                }
+        ]
+      },
+      {
+        "name": "Cinema",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Quel film de 1939 est souvent considéré comme le plus grand film de tous les temps ?",
+                "choices": ["Autant en emporte le vent", "Le Magicien d'Oz", "Citizen Kane", "Casablanca"],
+                "correct_answer": "Autant en emporte le vent"
+              },
+              {
+                "id": 2,
+                "question": "Dans quel film Humphrey Bogart prononce-t-il la célèbre réplique « Here's looking at you, kid » ?",
+                "choices": ["Casablanca", "Le Faucon maltais", "La Grande Évasion", "Key Largo"],
+                "correct_answer": "Casablanca"
+              },
+              {
+                "id": 3,
+                "question": "Quel film de 1960 réalisé par Alfred Hitchcock met en vedette Janet Leigh et Anthony Perkins ?",
+                "choices": ["Psychose", "Sueurs froides", "Fenêtre sur cour", "Les Oiseaux"],
+                "correct_answer": "Psychose"
+              },
+              {
+                "id": 4,
+                "question": "Quel film de Stanley Kubrick de 1968 est basé sur une nouvelle d'Arthur C. Clarke ?",
+                "choices": ["2001: L'Odyssée de l'espace", "Orange mécanique", "Dr. Folamour", "Barry Lyndon"],
+                "correct_answer": "2001: L'Odyssée de l'espace"
+              },
+              {
+                "id": 5,
+                "question": "Quel film de 1972 réalisé par Francis Ford Coppola est basé sur un roman de Mario Puzo ?",
+                "choices": ["Le Parrain", "Apocalypse Now", "La Conversation", "Cotton Club"],
+                "correct_answer": "Le Parrain"
+              },
+              {
+                "id": 6,
+                "question": "Qui a réalisé le film « Pulp Fiction » ?",
+                "choices": ["Quentin Tarantino", "Martin Scorsese", "Steven Spielberg", "Christopher Nolan"],
+                "correct_answer": "Quentin Tarantino"
+              },
+              {
+                "id": 7,
+                "question": "Quel réalisateur est connu pour ses films muets comme « La Ruée vers l'or » et « Les Temps modernes » ?",
+                "choices": ["Charlie Chaplin", "Buster Keaton", "Harold Lloyd", "D.W. Griffith"],
+                "correct_answer": "Charlie Chaplin"
+              },
+              {
+                "id": 8,
+                "question": "Qui a réalisé le film « Titanic » en 1997 ?",
+                "choices": ["James Cameron", "Steven Spielberg", "Ridley Scott", "Peter Jackson"],
+                "correct_answer": "James Cameron"
+              },
+              {
+                "id": 9,
+                "question": "Quel réalisateur est célèbre pour sa trilogie « Le Seigneur des anneaux » ?",
+                "choices": ["Peter Jackson", "George Lucas", "Steven Spielberg", "James Cameron"],
+                "correct_answer": "Peter Jackson"
+              },
+              {
+                "id": 10,
+                "question": "Qui a réalisé « Inception » en 2010 ?",
+                "choices": ["Christopher Nolan", "David Fincher", "Quentin Tarantino", "Ridley Scott"],
+                "correct_answer": "Christopher Nolan"
+              },
+              {
+                "id": 11,
+                "question": "Qui a joué le rôle principal dans « Forrest Gump » ?",
+                "choices": ["Tom Hanks", "Robin Williams", "Kevin Costner", "John Travolta"],
+                "correct_answer": "Tom Hanks"
+              },
+              {
+                "id": 12,
+                "question": "Quelle actrice a remporté l'Oscar de la meilleure actrice pour son rôle dans « La La Land » ?",
+                "choices": ["Emma Stone", "Jennifer Lawrence", "Natalie Portman", "Meryl Streep"],
+                "correct_answer": "Emma Stone"
+              },
+              {
+                "id": 13,
+                "question": "Qui joue le personnage de Jack Sparrow dans « Pirates des Caraïbes » ?",
+                "choices": ["Johnny Depp", "Orlando Bloom", "Brad Pitt", "Leonardo DiCaprio"],
+                "correct_answer": "Johnny Depp"
+              },
+              {
+                "id": 14,
+                "question": "Quel acteur a interprété le rôle de Neo dans « Matrix » ?",
+                "choices": ["Keanu Reeves", "Will Smith", "Tom Cruise", "Johnny Depp"],
+                "correct_answer": "Keanu Reeves"
+              },
+              {
+                "id": 15,
+                "question": "Qui a joué le rôle principal dans « Gladiator » ?",
+                "choices": ["Russell Crowe", "Mel Gibson", "Brad Pitt", "Hugh Jackman"],
+                "correct_answer": "Russell Crowe"
+              },
+              {
+                "id": 16,
+                "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+                "choices": ["Parasite", "1917", "Once Upon a Time in Hollywood", "Joker"],
+                "correct_answer": "Parasite"
+              },
+              {
+                "id": 17,
+                "question": "Qui a remporté l'Oscar du meilleur acteur en 2020 ?",
+                "choices": ["Joaquin Phoenix", "Leonardo DiCaprio", "Adam Driver", "Antonio Banderas"],
+                "correct_answer": "Joaquin Phoenix"
+              },
+              {
+                "id": 18,
+                "question": "Quel réalisateur a remporté l'Oscar du meilleur réalisateur pour « La Liste de Schindler » ?",
+                "choices": ["Steven Spielberg", "Martin Scorsese", "Quentin Tarantino", "James Cameron"],
+                "correct_answer": "Steven Spielberg"
+              },
+              {
+                "id": 19,
+                "question": "Quel film d'animation a remporté l'Oscar du meilleur film d'animation en 2019 ?",
+                "choices": ["Toy Story 4", "Les Indestructibles 2", "Ralph 2.0", "Spider-Man: New Generation"],
+                "correct_answer": "Toy Story 4"
+              },
+              {
+                "id": 20,
+                "question": "Quel film a remporté la Palme d'Or au Festival de Cannes en 2019 ?",
+                "choices": ["Parasite", "Once Upon a Time in Hollywood", "Douleur et gloire", "Portrait de la jeune fille en feu"],
+                "correct_answer": "Parasite"
+              },
+              {
+                "id": 21,
+                "question": "Quel film de super-héros de Marvel met en scène un personnage nommé Thanos ?",
+                "choices": ["Avengers: Infinity War", "Black Panther", "Spider-Man: Homecoming", "Thor: Ragnarok"],
+                "correct_answer": "Avengers: Infinity War"
+              },
+              {
+                "id": 22,
+                "question": "Dans quel film de Christopher Nolan sorti en 2020 un agent secret manipule-t-il le temps pour prévenir la Troisième Guerre mondiale ?",
+                "choices": ["Tenet", "Dunkerque", "Interstellar", "Le Prestige"],
+                "correct_answer": "Tenet"
+              },
+              {
+                "id": 23,
+                "question": "Qui joue le rôle principal dans le film « Joker » de 2019 ?",
+                "choices": ["Joaquin Phoenix", "Robert De Niro", "Bradley Cooper", "Christian Bale"],
+                "correct_answer": "Joaquin Phoenix"
+              },
+              {
+                "id": 24,
+                "question": "Quel film de 1994 met en vedette Tim Robbins et Morgan Freeman ?",
+                "choices": ["Les Évadés", "Forrest Gump", "Pulp Fiction", "Braveheart"],
+                "correct_answer": "Les Évadés"
+              },
+              {
+                "id": 25,
+                "question": "Quel film d'animation de 1994 a été produit par Disney et met en scène un lion nommé Simba ?",
+                "choices": ["Le Roi Lion", "Aladdin", "Mulan", "Hercule"],
+                "correct_answer": "Le Roi Lion"
+              },
+              {
+                "id": 26,
+                "question": "Qui a joué le rôle principal dans le film « American Psycho » ?",
+                "choices": ["Christian Bale", "Leonardo DiCaprio", "Brad Pitt", "Edward Norton"],
+                "correct_answer": "Christian Bale"
+              },
+              {
+                "id": 27,
+                "question": "Quel film de 2010 met en vedette Leonardo DiCaprio en tant que voleur d'idées ?",
+                "choices": ["Inception", "Shutter Island", "Le Loup de Wall Street", "The Revenant"],
+                "correct_answer": "Inception"
+              },
+              {
+                "id": 28,
+                "question": "Qui a réalisé le film « Le Fabuleux Destin d'Amélie Poulain » ?",
+                "choices": ["Jean-Pierre Jeunet", "Luc Besson", "François Truffaut", "Claude Chabrol"],
+                "correct_answer": "Jean-Pierre Jeunet"
+              }, {
+                  "id": 29,
+                  "question": "Quel film a remporté l'Oscar du meilleur film en 1994 ?",
+                  "choices": ["Forrest Gump", "Pulp Fiction", "Les Évadés", "Quatre mariages et un enterrement"],
+                  "correct_answer": "Forrest Gump"
+                },
+                {
+                  "id": 30,
+                  "question": "Dans quel film de 1984 Arnold Schwarzenegger joue-t-il un cyborg assassin ?",
+                  "choices": ["Terminator", "Commando", "Predator", "Total Recall"],
+                  "correct_answer": "Terminator"
+                },
+                {
+                  "id": 31,
+                  "question": "Qui a réalisé le film « E.T. l'extra-terrestre » ?",
+                  "choices": ["Steven Spielberg", "George Lucas", "James Cameron", "Ridley Scott"],
+                  "correct_answer": "Steven Spielberg"
+                },
+                {
+                  "id": 32,
+                  "question": "Quel film d'animation japonais de 2001 a été réalisé par Hayao Miyazaki et produit par le Studio Ghibli ?",
+                  "choices": ["Le Voyage de Chihiro", "Princesse Mononoké", "Le Château dans le ciel", "Mon voisin Totoro"],
+                  "correct_answer": "Le Voyage de Chihiro"
+                },
+                {
+                  "id": 33,
+                  "question": "Quel film de 1995 réalisé par David Fincher met en vedette Brad Pitt et Morgan Freeman ?",
+                  "choices": ["Seven", "Fight Club", "Zodiac", "L'Étrange Histoire de Benjamin Button"],
+                  "correct_answer": "Seven"
+                },
+                {
+                  "id": 34,
+                  "question": "Quel réalisateur est connu pour ses films « Pulp Fiction », « Kill Bill » et « Django Unchained » ?",
+                  "choices": ["Quentin Tarantino", "Martin Scorsese", "Steven Spielberg", "Christopher Nolan"],
+                  "correct_answer": "Quentin Tarantino"
+                },
+                {
+                  "id": 35,
+                  "question": "Quel film de 1993 réalisé par Steven Spielberg est basé sur une histoire vraie pendant la Seconde Guerre mondiale ?",
+                  "choices": ["La Liste de Schindler", "Il faut sauver le soldat Ryan", "La Ligne verte", "Un homme d'exception"],
+                  "correct_answer": "La Liste de Schindler"
+                },
+                {
+                  "id": 36,
+                  "question": "Quel acteur a joué le rôle principal dans le film « Drive » de 2011 ?",
+                  "choices": ["Ryan Gosling", "Brad Pitt", "Leonardo DiCaprio", "Jake Gyllenhaal"],
+                  "correct_answer": "Ryan Gosling"
+                },
+                {
+                  "id": 37,
+                  "question": "Quel film de 1999 réalisé par les Wachowski met en vedette Keanu Reeves ?",
+                  "choices": ["Matrix", "Johnny Mnemonic", "Speed", "Point Break"],
+                  "correct_answer": "Matrix"
+                },
+                {
+                  "id": 38,
+                  "question": "Quel film de 1985 réalisé par Robert Zemeckis met en vedette Michael J. Fox en tant que voyageur temporel ?",
+                  "choices": ["Retour vers le futur", "Qui veut la peau de Roger Rabbit ?", "Forrest Gump", "Le Pôle Express"],
+                  "correct_answer": "Retour vers le futur"
+                },
+                {
+                  "id": 39,
+                  "question": "Dans quel film de 1982 un groupe d'enfants aide un extraterrestre à rentrer chez lui ?",
+                  "choices": ["E.T. l'extra-terrestre", "Rencontres du troisième type", "Explorers", "Les Goonies"],
+                  "correct_answer": "E.T. l'extra-terrestre"
+                },
+                {
+                  "id": 40,
+                  "question": "Quel acteur a joué le rôle du Joker dans « The Dark Knight » de 2008 ?",
+                  "choices": ["Heath Ledger", "Jared Leto", "Joaquin Phoenix", "Jack Nicholson"],
+                  "correct_answer": "Heath Ledger"
+                },
+                {
+                  "id": 41,
+                  "question": "Quel film de science-fiction de 1982 réalisé par Ridley Scott met en scène Harrison Ford ?",
+                  "choices": ["Blade Runner", "Alien", "Le Fugitif", "Indiana Jones et les aventuriers de l'arche perdue"],
+                  "correct_answer": "Blade Runner"
+                },
+                {
+                  "id": 42,
+                  "question": "Quel réalisateur a remporté l'Oscar du meilleur réalisateur pour le film « Birdman » ?",
+                  "choices": ["Alejandro González Iñárritu", "Alfonso Cuarón", "Guillermo del Toro", "Ang Lee"],
+                  "correct_answer": "Alejandro González Iñárritu"
+                },
+                {
+                  "id": 43,
+                  "question": "Quel film de 2014 réalisé par Christopher Nolan explore le voyage interstellaire pour sauver l'humanité ?",
+                  "choices": ["Interstellar", "Inception", "Gravity", "Le Prestige"],
+                  "correct_answer": "Interstellar"
+                },
+                {
+                  "id": 44,
+                  "question": "Quel film d'horreur de 1973 réalisé par William Friedkin met en scène une jeune fille possédée ?",
+                  "choices": ["L'Exorciste", "Halloween", "Massacre à la tronçonneuse", "Vendredi 13"],
+                  "correct_answer": "L'Exorciste"
+                },
+                {
+                  "id": 45,
+                  "question": "Quel film de 1984 réalisé par James Cameron met en scène un robot assassin venu du futur ?",
+                  "choices": ["Terminator", "RoboCop", "Blade Runner", "Total Recall"],
+                  "correct_answer": "Terminator"
+                },
+                {
+                  "id": 46,
+                  "question": "Quel réalisateur est connu pour ses films « Taxi Driver », « Les Affranchis » et « Le Loup de Wall Street » ?",
+                  "choices": ["Martin Scorsese", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan"],
+                  "correct_answer": "Martin Scorsese"
+                },
+                {
+                  "id": 47,
+                  "question": "Quel film de 1975 réalisé par Steven Spielberg met en scène un grand requin blanc terrorisant une station balnéaire ?",
+                  "choices": ["Les Dents de la mer", "Rencontres du troisième type", "Jurassic Park", "Le Monde perdu"],
+                  "correct_answer": "Les Dents de la mer"
+                },
+                {
+                  "id": 48,
+                  "question": "Quel film de 1997 réalisé par James Cameron raconte l'histoire du naufrage du Titanic ?",
+                  "choices": ["Titanic", "Abyss", "True Lies", "Le Secret de l'abîme"],
+                  "correct_answer": "Titanic"
+                },
+                {
+                  "id": 49,
+                  "question": "Dans quel film de 1988 Bruce Willis joue-t-il un policier essayant de sauver des otages dans un gratte-ciel ?",
+                  "choices": ["Piège de cristal", "L'Arme fatale", "48 heures", "Code Mercury"],
+                  "correct_answer": "Piège de cristal"
+                },
+                {
+                  "id": 50,
+                  "question": "Quel film de 1994 met en scène une prison et ses détenus, dont un joué par Tim Robbins ?",
+                  "choices": ["Les Évadés", "Le Dernier Château", "La Ligne verte", "L'Évadé d'Alcatraz"],
+                  "correct_answer": "Les Évadés"
+                },
+                {
+                  "id": 51,
+                  "question": "Quel film d'animation de 1995 est le premier long métrage entièrement en images de synthèse ?",
+                  "choices": ["Toy Story", "Fourmiz", "1001 pattes", "Shrek"],
+                  "correct_answer": "Toy Story"
+                },
+                {
+                  "id": 52,
+                  "question": "Dans quel film de 1993 Tom Hanks joue-t-il un avocat atteint du SIDA ?",
+                  "choices": ["Philadelphia", "Forrest Gump", "Le Terminal", "Seul au monde"],
+                  "correct_answer": "Philadelphia"
+                },
+                {
+                  "id": 53,
+                  "question": "Quel film de science-fiction de 1999 a popularisé l'utilisation du bullet time ?",
+                  "choices": ["Matrix", "Star Wars: La Menace fantôme", "Le Cinquième Élément", "Dark City"],
+                  "correct_answer": "Matrix"
+                },
+                {
+                  "id": 54,
+                  "question": "Quel film de 1980 réalisé par Stanley Kubrick est basé sur un roman de Stephen King ?",
+                  "choices": ["Shining", "Carrie", "Christine", "Cujo"],
+                  "correct_answer": "Shining"
+                },
+                {
+                  "id": 55,
+                  "question": "Quel acteur a joué le rôle de Forrest Gump ?",
+                  "choices": ["Tom Hanks", "Robin Williams", "Bill Murray", "Robert Redford"],
+                  "correct_answer": "Tom Hanks"
+                }
+        ]
+      },
+      {
+        "name": "Harry Potter",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Quel est le nom complet du personnage principal de la série Harry Potter ?",
+                "choices": ["Harry James Potter", "Harry Albus Potter", "Harry Sirius Potter", "Harry Neville Potter"],
+                "correct_answer": "Harry James Potter"
+              },
+              {
+                "id": 2,
+                "question": "Dans quel livre de la série Harry Potter Harry découvre-t-il qu'il est un sorcier ?",
+                "choices": ["Harry Potter à l'école des sorciers", "Harry Potter et la Chambre des secrets", "Harry Potter et le Prisonnier d'Azkaban", "Harry Potter et le Prince de sang-mêlé"],
+                "correct_answer": "Harry Potter à l'école des sorciers"
+              },
+              {
+                "id": 3,
+                "question": "Quelle est la couleur du train qui emmène les élèves à Poudlard ?",
+                "choices": ["Rouge", "Bleu", "Vert", "Noir"],
+                "correct_answer": "Rouge"
+              },
+              {
+                "id": 4,
+                "question": "Quelle est la spécialité de la boutique de Fred et George Weasley à Pré-au-Lard ?",
+                "choices": ["Farces et attrapes", "Confiseries magiques", "Bougies magiques", "Instruments de musique"],
+                "correct_answer": "Farces et attrapes"
+              },
+              {
+                "id": 5,
+                "question": "Quel animal est l'assistant d'Hagrid, le garde-chasse de Poudlard ?",
+                "choices": ["Un hippogriffe nommé Buck", "Un dragon vert", "Un chien à trois têtes", "Un phénix"],
+                "correct_answer": "Un hippogriffe nommé Buck"
+              },
+              {
+                "id": 6,
+                "question": "Quelle est la maison à Poudlard dont les couleurs sont bleu et argent ?",
+                "choices": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
+                "correct_answer": "Serpentard"
+              },
+              {
+                "id": 7,
+                "question": "Qui est le professeur de potions à Poudlard durant la majeure partie de la série ?",
+                "choices": ["Severus Rogue", "Remus Lupin", "Horace Slughorn", "Dolores Ombrage"],
+                "correct_answer": "Severus Rogue"
+              },
+              {
+                "id": 8,
+                "question": "Quelle créature magique garde les banques des sorciers, y compris Gringotts ?",
+                "choices": ["Les gobelins", "Les elfes de maison", "Les centaures", "Les hippogriffes"],
+                "correct_answer": "Les gobelins"
+              },
+              {
+                "id": 9,
+                "question": "Quel est le patronus de Harry Potter ?",
+                "choices": ["Cerf", "Hibou", "Lion", "Phoenix"],
+                "correct_answer": "Cerf"
+              },
+              {
+                "id": 10,
+                "question": "Quel est le sortilège qui permet de faire léviter des objets ?",
+                "choices": ["Wingardium Leviosa", "Expelliarmus", "Accio", "Expecto Patronum"],
+                "correct_answer": "Wingardium Leviosa"
+              },
+              {
+                "id": 11,
+                "question": "Quelle est la boutique de baguettes magiques située sur le Chemin de Traverse ?",
+                "choices": ["Ollivander", "Barjow et Beurk", "Fleury et Bott", "Gringotts"],
+                "correct_answer": "Ollivander"
+              },
+              {
+                "id": 12,
+                "question": "Quel est le nom de l'elfe de maison de la famille Malefoy ?",
+                "choices": ["Dobby", "Kreattur", "Winky", "Hokey"],
+                "correct_answer": "Dobby"
+              },
+              {
+                "id": 13,
+                "question": "Quelle est la boisson favorite des elfes de maison dans la série Harry Potter ?",
+                "choices": ["La bièraubeurre", "Le jus de citrouille", "Le polynectar", "Le philtre de mort vivante"],
+                "correct_answer": "La bièraubeurre"
+              },
+              {
+                "id": 14,
+                "question": "Quel est le nom du dragon gardé par Hagrid dans « Harry Potter et la Chambre des secrets » ?",
+                "choices": ["Norbert", "Smaug", "Fang", "Gringott"],
+                "correct_answer": "Norbert"
+              },
+              {
+                "id": 15,
+                "question": "Qui est le fantôme de la maison Serdaigle à Poudlard ?",
+                "choices": ["La Dame Grise", "Le Baron Sanglant", "Le Moine Gras", "Le Moine Gris"],
+                "correct_answer": "Le Moine Gris"
+              }, {
+                  "id": 16,
+                  "question": "Quel est le nom du frère aîné de Ron Weasley, qui est également un préfet à Poudlard ?",
+                  "choices": ["Bill", "Charlie", "Percy", "George"],
+                  "correct_answer": "Percy"
+                },
+                {
+                  "id": 17,
+                  "question": "Quel est le nom du balai volant de Harry Potter qui est célèbre pour sa vitesse ?",
+                  "choices": ["Nimbus 2000", "Éclair de feu", "Flèche d'argent", "Comète 260"],
+                  "correct_answer": "Nimbus 2000"
+                },
+                {
+                  "id": 18,
+                  "question": "Quelle est la créature magique gardienne des forêts et amie de Hagrid dans la série Harry Potter ?",
+                  "choices": ["Norbert", "Buck", "Aragog", "Dobby"],
+                  "correct_answer": "Buck"
+                },
+                {
+                  "id": 19,
+                  "question": "Quelle est la profession des parents de Hermione Granger dans la série Harry Potter ?",
+                  "choices": ["Dentistes", "Médecins", "Avocats", "Professeurs"],
+                  "correct_answer": "Dentistes"
+                },
+                {
+                  "id": 20,
+                  "question": "Quel est le nom du fondateur de la maison Serpentard à Poudlard ?",
+                  "choices": ["Salazar Serpentard", "Godric Gryffondor", "Rowena Serdaigle", "Helga Poufsouffle"],
+                  "correct_answer": "Salazar Serpentard"
+                },
+                {
+                  "id": 21,
+                  "question": "Dans quel livre Harry Potter découvre-t-il le secret de la Chambre des Secrets ?",
+                  "choices": ["Harry Potter et la Chambre des Secrets", "Harry Potter et le Prisonnier d'Azkaban", "Harry Potter et le Prince de sang-mêlé", "Harry Potter et les Reliques de la Mort"],
+                  "correct_answer": "Harry Potter et la Chambre des Secrets"
+                },
+                {
+                  "id": 22,
+                  "question": "Quelle est la matière enseignée par Gilderoy Lockhart à Poudlard ?",
+                  "choices": ["Défense contre les forces du Mal", "Sortilèges", "Histoire de la magie", "Botanique"],
+                  "correct_answer": "Défense contre les forces du Mal"
+                },
+                {
+                  "id": 23,
+                  "question": "Quelle est la spécialité du magasin Honeydukes à Pré-au-Lard dans la série Harry Potter ?",
+                  "choices": ["Confiseries magiques", "Farces et attrapes", "Livres de sorts", "Accessoires de Quidditch"],
+                  "correct_answer": "Confiseries magiques"
+                },
+                {
+                  "id": 24,
+                  "question": "Quel sortilège est utilisé pour effacer la mémoire de quelqu'un ?",
+                  "choices": ["Oubliettes", "Expelliarmus", "Imperium", "Obliviate"],
+                  "correct_answer": "Obliviate"
+                },
+                {
+                  "id": 25,
+                  "question": "Quelle est la spécialité de la boutique de Fred et George Weasley à Pré-au-Lard ?",
+                  "choices": ["Farces et attrapes", "Confiseries magiques", "Bougies magiques", "Instruments de musique"],
+                  "correct_answer": "Farces et attrapes"
+                },
+                {
+                  "id": 26,
+                  "question": "Quel animal est l'assistant d'Hagrid, le garde-chasse de Poudlard ?",
+                  "choices": ["Un hippogriffe nommé Buck", "Un dragon vert", "Un chien à trois têtes", "Un phénix"],
+                  "correct_answer": "Un hippogriffe nommé Buck"
+                },
+                {
+                  "id": 27,
+                  "question": "Quelle est la maison à Poudlard dont les couleurs sont bleu et argent ?",
+                  "choices": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
+                  "correct_answer": "Serpentard"
+                },
+                {
+                  "id": 28,
+                  "question": "Qui est le professeur de potions à Poudlard durant la majeure partie de la série ?",
+                  "choices": ["Severus Rogue", "Remus Lupin", "Horace Slughorn", "Dolores Ombrage"],
+                  "correct_answer": "Severus Rogue"
+                },
+                {
+                  "id": 29,
+                  "question": "Quelle créature magique garde les banques des sorciers, y compris Gringotts ?",
+                  "choices": ["Les gobelins", "Les elfes de maison", "Les centaures", "Les hippogriffes"],
+                  "correct_answer": "Les gobelins"
+                },
+                {
+                  "id": 30,
+                  "question": "Quel est le patronus de Harry Potter ?",
+                  "choices": ["Cerf", "Hibou", "Lion", "Phoenix"],
+                  "correct_answer": "Cerf"
+                }, {
+                  "id": 31,
+                  "question": "Quel est le nom de la boutique de baguettes magiques située sur le Chemin de Traverse ?",
+                  "choices": ["Ollivander", "Barjow et Beurk", "Fleury et Bott", "Gringotts"],
+                  "correct_answer": "Ollivander"
+                },
+                {
+                  "id": 32,
+                  "question": "Quel est le nom de l'elfe de maison de la famille Malefoy ?",
+                  "choices": ["Dobby", "Kreattur", "Winky", "Hokey"],
+                  "correct_answer": "Dobby"
+                },
+                {
+                  "id": 33,
+                  "question": "Quelle est la boisson favorite des elfes de maison dans la série Harry Potter ?",
+                  "choices": ["La bièraubeurre", "Le jus de citrouille", "Le polynectar", "Le philtre de mort vivante"],
+                  "correct_answer": "La bièraubeurre"
+                },
+                {
+                  "id": 34,
+                  "question": "Quel est le nom du dragon gardé par Hagrid dans « Harry Potter et la Chambre des secrets » ?",
+                  "choices": ["Norbert", "Smaug", "Fang", "Gringott"],
+                  "correct_answer": "Norbert"
+                },
+                {
+                  "id": 35,
+                  "question": "Qui est le fantôme de la maison Serdaigle à Poudlard ?",
+                  "choices": ["La Dame Grise", "Le Baron Sanglant", "Le Moine Gras", "Le Moine Gris"],
+                  "correct_answer": "Le Moine Gris"
+                },
+                {
+                  "id": 36,
+                  "question": "Quel est le nom complet du personnage principal de la série Harry Potter ?",
+                  "choices": ["Harry James Potter", "Harry Albus Potter", "Harry Sirius Potter", "Harry Neville Potter"],
+                  "correct_answer": "Harry James Potter"
+                },
+                {
+                  "id": 37,
+                  "question": "Dans quel livre de la série Harry Potter Harry découvre-t-il qu'il est un sorcier ?",
+                  "choices": ["Harry Potter à l'école des sorciers", "Harry Potter et la Chambre des secrets", "Harry Potter et le Prisonnier d'Azkaban", "Harry Potter et le Prince de sang-mêlé"],
+                  "correct_answer": "Harry Potter à l'école des sorciers"
+                },
+                {
+                  "id": 38,
+                  "question": "Quelle est la couleur du train qui emmène les élèves à Poudlard ?",
+                  "choices": ["Rouge", "Bleu", "Vert", "Noir"],
+                  "correct_answer": "Rouge"
+                },
+                {
+                  "id": 39,
+                  "question": "Quelle est la spécialité de la boutique de Fred et George Weasley à Pré-au-Lard ?",
+                  "choices": ["Farces et attrapes", "Confiseries magiques", "Bougies magiques", "Instruments de musique"],
+                  "correct_answer": "Farces et attrapes"
+                },
+                {
+                  "id": 40,
+                  "question": "Quel animal est l'assistant d'Hagrid, le garde-chasse de Poudlard ?",
+                  "choices": ["Un hippogriffe nommé Buck", "Un dragon vert", "Un chien à trois têtes", "Un phénix"],
+                  "correct_answer": "Un hippogriffe nommé Buck"
+                },
+                {
+                  "id": 41,
+                  "question": "Quelle est la maison à Poudlard dont les couleurs sont bleu et argent ?",
+                  "choices": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
+                  "correct_answer": "Serpentard"
+                },
+                {
+                  "id": 42,
+                  "question": "Qui est le professeur de potions à Poudlard durant la majeure partie de la série ?",
+                  "choices": ["Severus Rogue", "Remus Lupin", "Horace Slughorn", "Dolores Ombrage"],
+                  "correct_answer": "Severus Rogue"
+                },
+                {
+                  "id": 43,
+                  "question": "Quelle créature magique garde les banques des sorciers, y compris Gringotts ?",
+                  "choices": ["Les gobelins", "Les elfes de maison", "Les centaures", "Les hippogriffes"],
+                  "correct_answer": "Les gobelins"
+                },
+                {
+                  "id": 44,
+                  "question": "Quel est le patronus de Harry Potter ?",
+                  "choices": ["Cerf", "Hibou", "Lion", "Phoenix"],
+                  "correct_answer": "Cerf"
+                },
+                {
+                  "id": 45,
+                  "question": "Quel est le nom de la boutique de baguettes magiques située sur le Chemin de Traverse ?",
+                  "choices": ["Ollivander", "Barjow et Beurk", "Fleury et Bott", "Gringotts"],
+                  "correct_answer": "Ollivander"
+                },
+                {
+                  "id": 46,
+                  "question": "Quel est le nom de l'elfe de maison de la famille Malefoy ?",
+                  "choices": ["Dobby", "Kreattur", "Winky", "Hokey"],
+                  "correct_answer": "Dobby"
+                },
+                {
+                  "id": 47,
+                  "question": "Quelle est la boisson favorite des elfes de maison dans la série Harry Potter ?",
+                  "choices": ["La bièraubeurre", "Le jus de citrouille", "Le polynectar", "Le philtre de mort vivante"],
+                  "correct_answer": "La bièraubeurre"
+                },
+                {
+                  "id": 48,
+                  "question": "Quel est le nom du dragon gardé par Hagrid dans « Harry Potter et la Chambre des secrets » ?",
+                  "choices": ["Norbert", "Smaug", "Fang", "Gringott"],
+                  "correct_answer": "Norbert"
+                },
+                {
+                  "id": 49,
+                  "question": "Qui est le fantôme de la maison Serdaigle à Poudlard ?",
+                  "choices": ["La Dame Grise", "Le Baron Sanglant", "Le Moine Gras", "Le Moine Gris"],
+                  "correct_answer": "Le Moine Gris"
+                },
+                {
+                  "id": 50,
+                  "question": "Quel est le nom complet du personnage principal de la série Harry Potter ?",
+                  "choices": ["Harry James Potter", "Harry Albus Potter", "Harry Sirius Potter", "Harry Neville Potter"],
+                  "correct_answer": "Harry James Potter"
+                }
+        ]
+      },
+      {
+        "name": "Disney difficile",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Qui est le méchant dans La Petite Sirène ?",
+            "choices": ["Ursula", "Malefique", "Jafar", "Gaston"],
+            "answer": "Ursula"
+          },
+          {
+            "id": 2,
+            "question": "Quel est le nom de la fille de Triton dans La Petite Sirène ?",
+            "choices": ["Ariel", "Andrina", "Melody", "Ursula"],
+            "answer": "Melody"
+          },
+          {
+            "id": 3,
+            "question": "Quel est le nom complet du personnage principal de Mary Poppins ?",
+            "choices": ["Mary Poppins", "Bert", "Michael Banks", "Jane Banks"],
+            "answer": "Mary Poppins"
+          }
+        ]
+      },
+      {
+        "name": "Disney difficile",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Qui est le méchant dans La Petite Sirène ?",
+            "choices": ["Ursula", "Malefique", "Jafar", "Gaston"],
+            "answer": "Ursula"
+          },
+          {
+            "id": 2,
+            "question": "Quel est le nom de la fille de Triton dans La Petite Sirène ?",
+            "choices": ["Ariel", "Andrina", "Melody", "Ursula"],
+            "answer": "Melody"
+          },
+          {
+            "id": 3,
+            "question": "Quel est le nom complet du personnage principal de Mary Poppins ?",
+            "choices": ["Mary Poppins", "Bert", "Michael Banks", "Jane Banks"],
+            "answer": "Mary Poppins"
+          }
+        ]
+      }
+    ]
+  }

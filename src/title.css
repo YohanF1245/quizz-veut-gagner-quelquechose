@@ -137,20 +137,6 @@ h1 {
   align-items: center;
 } */
 
-label {
-  background-color: hsl(240deg, 20%, 50%);
-  border-radius: 5px;
-  color: #fff;
-  padding: 0.5em 1em;
-  
-  position: fixed;
-  bottom: 1rem;
-  right: 1rem;
-  z-index: 1000;
-  
-  &:has(:checked) {
-    background-color: hsl(350deg, 60%, 50%);
-  }
 }
 
 /* input {
